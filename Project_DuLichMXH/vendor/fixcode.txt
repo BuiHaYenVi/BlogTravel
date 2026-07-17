@@ -1,0 +1,60 @@
+-Chức năng bổ sung:
+1.Về phần bài viết trong nhóm thì khi đăng bài, người kiểm duyệt nội dung nhóm sẽ có quyền xem nội dung bài viết trước để xét duyệt.(trưởng nhóm sẽ có quyền bổ nhiệm kiểm duyệt viên)
+2.Về phần comment: Khi ấn vào avata(ảnh đại diện) ở phần comment thì sẽ điều hướng đến trang cá nhân của user đó.
+
+-thông báo:
+ 1. Nhóm Tương tác Cá nhân (Social)
+  Đây là những thông báo phổ biến nhất giúp người dùng kết nối với nhau:
+   * Theo dõi (Follow): Nhận thông báo khi có người khác bắt đầu theo dõi
+     bạn.
+   * Thích bài viết (Like): Thông báo khi có người thả tim vào Blog hoặc bài
+     đăng của bạn.
+   * Bình luận (Comment): Nhận tin khi có người để lại ý kiến dưới bài viết
+     của bạn.
+   * Trả lời bình luận (Reply): Thông báo khi ai đó phản hồi một bình luận
+     mà bạn đã viết trước đó.
+   * Nhắc tên (Mention): Nhận thông báo khi ai đó dùng cú pháp nhắc tên bạn
+     trong một bài viết hoặc bình luận.
+
+  2. Nhóm Hội nhóm (Groups)
+  Dành cho các hoạt động trong cộng đồng du lịch:
+   * Mời vào nhóm (Group Invite): Thông báo khi bạn được một quản trị viên
+     hoặc thành viên mời tham gia nhóm mới.
+   * Yêu cầu tham gia (Join Request): Thông báo cho Quản trị viên nhóm khi
+     có thành viên mới muốn gia nhập (đối với nhóm riêng tư).
+   * Duyệt/Từ chối tham gia: Thông báo cho người xin gia nhập về kết quả yêu
+     cầu của họ (approved hoặc rejected).
+   * Bài viết mới trong nhóm (Group Post): Thông báo cho các thành viên khi
+     có một bài chia sẻ mới trong nhóm mà họ đang tham gia.
+
+  3. Nhóm Chuyến đi (Trips)
+  Dành cho tính năng lên kế hoạch đi chơi chung:
+   * Mời tham gia chuyến đi (Trip Invite): Khi một người bạn mời bạn vào kế
+     hoạch chuyến đi của họ.
+   * Cập nhật lịch trình (Trip Update): Thông báo cho tất cả thành viên
+     trong đoàn khi thời gian hoặc địa điểm chuyến đi bị thay đổi.
+   * Nhắc nhở khởi hành (Trip Reminder): Hệ thống tự động nhắc nhở khi sắp
+     đến ngày khởi hành chuyến đi.
+
+  4. Nhóm Hệ thống và Thành tựu (System & Achievements)
+  Thông báo từ ban quản trị hoặc tự động từ hệ thống:
+   * Cập nhật hồ sơ (Profile Update): Thông báo khi những người bạn đang
+     theo dõi thay đổi thông tin cá nhân.
+   * Cảnh báo hệ thống (System Alert): Thông báo khi bài viết bị báo cáo vi
+     phạm tiêu chuẩn cộng đồng hoặc tài khoản gặp vấn đề.
+   * Thành tựu (Achievement): Nhận huy hiệu hoặc danh hiệu mới (ví dụ:
+     "Người truyền cảm hứng", "Chuyên gia khám phá").
+   * Thông báo chung (Broadcast): Tin nhắn từ Admin gửi đến toàn bộ người
+     dùng trong hệ thống.
+
+  5. Cách thức nhận thông báo:
+   * Badge (Số lượng): Hiển thị số lượng màu đỏ trên biểu tượng Chuông ở
+     thanh Navbar.
+   * Real-time (Gần như tức thời): Hệ thống tự động làm mới danh sách sau
+     mỗi 30 giây.
+   * Xem nhanh: Danh sách đổ xuống (Dropdown) cho phép xem 20 thông báo gần
+     nhất mà không cần chuyển trang.
+   * Điều hướng: Nhấn vào từng thông báo sẽ dẫn trực tiếp đến nội dung liên
+     quan (Trang cá nhân, Bài viết, hoặc Nhóm).
+
+	khi mà đã có thông báo, người dùng click vào thông báo đó lập tức sẽ được điều hướng đến sự kiện đó ngay.

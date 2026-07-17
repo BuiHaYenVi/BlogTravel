@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BlogTravel - Mạng xã hội du lịch</title>
+    <script>
+      // Phục hồi theme ngay lập tức để tránh nháy màu (FOUC)
+      try {
+        const themeStorage = localStorage.getItem('theme-storage');
+        let theme = 'light';
+        if (themeStorage) {
+          theme = JSON.parse(themeStorage).state.theme;
+        } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          theme = 'dark';
+        }
+        
+        if (theme === 'dark') {
+          document.documentElement.classList.add('dark');
+          console.log('Early Theme Load: Dark Mode applied');
+        } else {
+          document.documentElement.classList.remove('dark');
+          console.log('Early Theme Load: Light Mode applied');
+        }
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

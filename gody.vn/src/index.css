@@ -1,0 +1,178 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-pastel-orange: #F97316;
+  --color-pastel-teal: #2DD4BF;
+  --color-pastel-background: #F8FAFC;
+  
+  --font-sans: "Be Vietnam Pro", Inter, system-ui, sans-serif;
+
+  --radius-3xl: 1.5rem;
+  --radius-4xl: 2rem;
+
+  --shadow-premium: 0 10px 40px -10px rgba(0, 0, 0, 0.08);
+
+  /* ── Design Tokens (CSS variable bridge) ── */
+  --color-theme-bg: var(--color-bg);
+  --color-theme-surface: var(--color-surface);
+  --color-theme-surface2: var(--color-surface-2);
+  --color-theme-border: var(--color-border);
+  --color-theme-text: var(--color-text-base);
+  --color-theme-muted: var(--color-text-muted);
+  --color-theme-faint: var(--color-text-faint);
+}
+
+/* ── Light / Dark Design Tokens ── */
+:root {
+  --color-bg: #F8FAFC;
+  --color-surface: #FFFFFF;
+  --color-surface-2: #F1F5F9;
+  --color-border: #E2E8F0;
+  --color-text-base: #0F172A;
+  --color-text-muted: #64748B;
+  --color-text-faint: #94A3B8;
+}
+
+html.dark {
+  --color-bg: #0F172A;
+  --color-surface: #1E293B;
+  --color-surface-2: #253347;
+  --color-border: #334155;
+  --color-text-base: #F1F5F9;
+  --color-text-muted: #94A3B8;
+  --color-text-faint: #64748B;
+}
+
+/* Base Styles */
+@layer base {
+  html {
+    @apply transition-colors duration-300;
+  }
+
+  html.dark {
+    color-scheme: dark;
+  }
+
+  body {
+    background-color: var(--color-bg);
+    color: var(--color-text-base);
+    @apply font-sans antialiased transition-colors duration-300;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--color-text-base);
+    @apply font-bold tracking-tight transition-colors duration-300;
+  }
+}
+
+/* ── Utility classes that consume tokens ── */
+@layer utilities {
+  .bg-surface       { background-color: var(--color-surface); }
+  .bg-surface-2     { background-color: var(--color-surface-2); }
+  .bg-app           { background-color: var(--color-bg); }
+  .text-base-color  { color: var(--color-text-base); }
+  .text-muted-color { color: var(--color-text-muted); }
+  .text-faint-color { color: var(--color-text-faint); }
+  .border-theme     { border-color: var(--color-border); }
+  .divide-theme > * + * { border-color: var(--color-border); }
+}
+
+/* Custom Components */
+@layer components {
+  .btn-primary {
+    @apply px-8 py-3 bg-pastel-orange text-white font-bold rounded-2xl transition-all duration-300 shadow-lg shadow-orange-500/20 hover:bg-orange-600 active:scale-95;
+  }
+  
+  .glass-card {
+    background-color: var(--color-surface);
+    border-color: var(--color-border);
+    @apply backdrop-blur-md border shadow-premium transition-colors duration-300;
+  }
+
+  /* Reusable card base */
+  .card {
+    background-color: var(--color-surface);
+    border-color: var(--color-border);
+    @apply rounded-[2.5rem] border shadow-sm transition-colors duration-300;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--color-border);
+  @apply rounded-full border-4 border-transparent bg-clip-padding transition-colors;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* ── Prose (Blog Content) Dark Mode ── */
+html.dark .prose {
+  color: var(--color-text-muted);
+}
+html.dark .prose h1,
+html.dark .prose h2,
+html.dark .prose h3,
+html.dark .prose h4 {
+  color: var(--color-text-base);
+}
+html.dark .prose strong {
+  color: var(--color-text-base);
+}
+html.dark .prose a {
+  color: #fb923c; /* orange-400 */
+}
+html.dark .prose blockquote {
+  border-left-color: var(--color-border);
+  color: var(--color-text-muted);
+}
+html.dark .prose hr {
+  border-color: var(--color-border);
+}
+html.dark .prose code {
+  background-color: var(--color-surface-2);
+  color: #fb923c;
+}
+html.dark .prose pre {
+  background-color: var(--color-surface-2);
+}
+html.dark .blog-html-content {
+  color: var(--color-text-muted);
+}
+
+/* ── Input & Select dark mode base ── */
+html.dark input:not([type="checkbox"]):not([type="radio"]):not([type="range"]),
+html.dark textarea,
+html.dark select {
+  background-color: var(--color-surface-2);
+  color: var(--color-text-base);
+  border-color: var(--color-border);
+}
+html.dark input::placeholder,
+html.dark textarea::placeholder {
+  color: var(--color-text-faint);
+}
+
+/* ── Modal / Overlay dark mode ── */
+html.dark [role="dialog"],
+html.dark [data-modal] {
+  background-color: var(--color-surface);
+  color: var(--color-text-base);
+}

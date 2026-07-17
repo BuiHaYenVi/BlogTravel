@@ -1,0 +1,1523 @@
+[
+  {
+    "tinh_thanh": "An Giang",
+    "data": {
+      "gioi_thieu": "An Giang là mảnh đất thuộc vùng Đồng bằng sông Cửu Long, nổi tiếng với vẻ đẹp sông nước hữu tình, các dãy núi kỳ vĩ và sự giao thoa văn hóa đặc sắc giữa các dân tộc Kinh, Khmer, Hoa và Chăm.",
+      "diem_du_lich": [
+        {
+          "ten": "Rừng tràm Trà Sư",
+          "mo_ta": "Hệ sinh thái đất ngập nước đặc trưng với những thảm bèo xanh mướt trải dài vô tận, là nơi trú ngụ của hàng trăm loài chim, cò.",
+          "diem_noi_bat": "Trải nghiệm đi tắc ráng (xuồng máy) len lỏi trong rừng tràm và check-in trên cây cầu tre dài nhất Việt Nam."
+        },
+        {
+          "ten": "Miếu Bà Chúa Xứ Núi Sam",
+          "mo_ta": "Trung tâm hành hương lớn nhất miền Tây, tọa lạc dưới chân núi Sam hùng vĩ với kiến trúc nghệ thuật dạng chữ 'Quốc' độc đáo.",
+          "diem_noi_bat": "Không gian tâm linh huyền bí và lễ hội Vía Bà Chúa Xứ quy mô bậc nhất vào cuối tháng 4 âm lịch."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Từ TP.HCM có thể đi xe khách (Phương Trang, Hùng Cường) mất khoảng 5-6 tiếng. Tại An Giang nên thuê xe máy để tự do khám phá các cung đường biên giới.",
+        "an_uong": "Bún cá Châu Đốc, lẩu mắm, bánh bò thốt nốt và các món từ cá linh (vào mùa nước nổi).",
+        "luu_tru": "Nên ở khách sạn tại khu vực TP. Châu Đốc hoặc các homestay gần rừng tràm Trà Sư để thuận tiện tham quan.",
+        "luu_y": "Mùa nước nổi (tháng 9-11) là thời điểm An Giang đẹp nhất. Nên mang theo kem chống muỗi khi vào rừng."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Bà Rịa – Vũng Tàu",
+    "data": {
+      "gioi_thieu": "Cửa ngõ ra biển của vùng Đông Nam Bộ, nổi tiếng với những bãi biển xanh trong, những ngọn núi kỳ vĩ và dịch vụ du lịch phát triển vượt bậc.",
+      "diem_du_lich": [
+        {
+          "ten": "Bãi Sau (Bãi Thùy Vân)",
+          "mo_ta": "Bãi biển dài nhất Vũng Tàu với bờ cát mịn và sóng êm, là nơi tập trung nhiều hoạt động vui chơi giải trí nhất.",
+          "diem_noi_bat": "Phù hợp để tắm biển, dạo bộ buổi tối và thưởng thức hải sản tươi sống ngay gần biển."
+        },
+        {
+          "ten": "Tượng Chúa Kitô Vua",
+          "mo_ta": "Bức tượng Chúa lớn nhất châu Á nằm trên đỉnh núi Nhỏ, với lối cầu thang xoắn ốc bên trong dẫn lên vai tượng.",
+          "diem_noi_bat": "Tầm nhìn bao quát 360 độ cực kỳ ấn tượng xuống toàn bộ dải bờ biển Vũng Tàu."
+        },
+        {
+          "ten": "Côn Đảo",
+          "mo_ta": "Hòn đảo anh hùng với lịch sử hào hùng và vẻ đẹp hoang sơ, được bình chọn là một trong những hòn đảo bí ẩn nhất thế giới.",
+          "diem_noi_bat": "Nước biển xanh ngắt như ngọc bích, bãi Đầm Trầu tuyệt đẹp và viếng mộ chị Võ Thị Sáu vào đêm khuya."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách Limousine hoặc tàu cao tốc từ TP.HCM. Côn Đảo có thể đi bằng máy bay hoặc tàu cao tốc từ Vũng Tàu/Sóc Trăng.",
+        "an_uong": "Bánh khọt Cô Ba Vũng Tàu, lẩu cá đuối, gỏi cá mai và các loại hải sản nướng.",
+        "luu_tru": "Vũng Tàu có nhiều resort cao cấp ven biển. Côn Đảo nên đặt phòng trước vì số lượng có hạn.",
+        "luu_y": "Cuối tuần Vũng Tàu thường rất đông khách, nên đi vào giữa tuần để tận hưởng không gian yên tĩnh."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Bạc Liêu",
+    "data": {
+      "gioi_thieu": "Xứ sở của những bản đờn ca tài tử và giai thoại về Công tử Bạc Liêu hào hoa, nơi giao thoa của ba dòng văn hóa Kinh - Hoa - Khmer.",
+      "diem_du_lich": [
+        {
+          "ten": "Nhà Công tử Bạc Liêu",
+          "mo_ta": "Ngôi biệt thự xây dựng theo phong cách Pháp năm 1919 với nội thất xa hoa bậc nhất Nam Kỳ lục tỉnh thời bấy giờ.",
+          "diem_noi_bat": "Khám phá cuộc sống vương giả của gia đình Trần Trinh Huy và nghe kể những giai thoại 'đốt tiền nấu trứng'."
+        },
+        {
+          "ten": "Cánh đồng điện gió Bạc Liêu",
+          "mo_ta": "Hàng chục cột turbine gió khổng lồ trắng muốt trên nền trời xanh bên bờ biển hoang sơ.",
+          "diem_noi_bat": "Góc check-in 'trời Tây' cực kỳ hiện đại và là địa điểm ngắm hoàng hôn tuyệt đẹp."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách từ TP.HCM mất khoảng 6-7 tiếng. Tại đây có thể di chuyển bằng taxi hoặc thuê xe máy.",
+        "an_uong": "Lẩu mắm, bún bò cay Bạc Liêu, bánh tằm Ngan Dừa nổi tiếng.",
+        "luu_tru": "Các khách sạn trung tâm TP. Bạc Liêu để dễ dàng di chuyển tham quan các di tích.",
+        "luu_y": "Nên kết hợp tham quan chùa Xiêm Cán - một trong những ngôi chùa Khmer lộng lẫy nhất miền Tây."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Bắc Giang",
+    "data": {
+      "gioi_thieu": "Vùng đất cổ kính với bề dày lịch sử văn hóa, nổi tiếng với đặc sản vải thiều và các ngôi chùa cổ tự nằm giữa rừng xanh.",
+      "diem_du_lich": [
+        {
+          "ten": "Chùa Vĩnh Nghiêm",
+          "mo_ta": "Nơi được coi là 'Quốc tự' và là trung tâm đào tạo Phật giáo lớn nhất của thiền phái Trúc Lâm Yên Tử.",
+          "diem_noi_bat": "Chiêm ngưỡng kho mộc bản kinh Phật được UNESCO công nhận là Di sản tư liệu thế giới."
+        },
+        {
+          "ten": "Khu du lịch sinh thái Tây Yên Tử",
+          "mo_ta": "Hệ thống các di tích lịch sử, văn hóa nằm bên sườn Tây dãy núi Yên Tử với phong cảnh núi non hùng vĩ.",
+          "diem_noi_bat": "Đi cáp treo ngắm nhìn thảm thực vật nguyên sinh và tìm về chốn tổ thiền phái Trúc Lâm."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Cách Hà Nội khoảng 50km, có thể đi bằng xe buýt, xe khách hoặc xe máy cá nhân theo hướng QL1A.",
+        "an_uong": "Vải thiều Lục Ngạn (vào mùa tháng 6), gà đồi Yên Thế, bánh đa Kế, chè kho Mỹ Độ.",
+        "luu_tru": "Có thể lưu trú tại các khách sạn ở trung tâm thành phố hoặc homestay tại khu vực Lục Ngạn.",
+        "luu_y": "Nếu đi vào mùa vải chín, hãy chuẩn bị tinh thần vì các tuyến đường về Lục Ngạn thường rất đông đúc."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Bắc Kạn",
+    "data": {
+      "gioi_thieu": "Tỉnh miền núi Đông Bắc với 'viên ngọc xanh' hồ Ba Bể, mang vẻ đẹp nguyên sơ, kỳ ảo và không khí trong lành quanh năm.",
+      "diem_du_lich": [
+        {
+          "ten": "Hồ Ba Bể",
+          "mo_ta": "Một trong 20 hồ nước ngọt tự nhiên lớn nhất thế giới, được bao quanh bởi các dãy núi đá vôi và rừng nguyên sinh.",
+          "diem_noi_bat": "Trải nghiệm chèo thuyền trên hồ, tham quan động Puông và thác Đầu Đẳng hùng vĩ."
+        },
+        {
+          "ten": "Động Nàng Tiên",
+          "mo_ta": "Hang động đá vôi tự nhiên sâu trong lòng núi với những khối thạch nhũ lấp lánh như sương sa.",
+          "diem_noi_bat": "Vẻ đẹp huyền bí gắn liền với truyền thuyết về bảy nàng tiên hạ giới."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách từ Hà Nội (bến xe Mỹ Đình) mất khoảng 4-5 tiếng để đến TP. Bắc Kạn hoặc thẳng hồ Ba Bể.",
+        "an_uong": "Cá nướng hồ Ba Bể, lợn mán, xôi đăm đeng, măng vầu.",
+        "luu_tru": "Nên trải nghiệm ngủ homestay nhà sàn của người Tày tại bản Pác Ngòi ven hồ Ba Bể.",
+        "luu_y": "Nên mang theo trang phục giữ ấm vì đêm tại vùng núi và ven hồ thường khá lạnh."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Bắc Ninh",
+    "data": {
+      "gioi_thieu": "Cửa ngõ phía Bắc của thủ đô Hà Nội, là cái nôi của dân ca Quan họ - Di sản văn hóa phi vật thể đại diện của nhân loại.",
+      "diem_du_lich": [
+        {
+          "ten": "Chùa Phật Tích",
+          "mo_ta": "Ngôi chùa cổ có lịch sử từ thời nhà Lý, nơi sở hữu pho tượng Phật bằng đá thời Lý lớn nhất Việt Nam.",
+          "diem_noi_bat": "Kiến trúc mang đậm nét văn hóa Việt cổ và không gian tĩnh mịch trên núi Lạn Kha."
+        },
+        {
+          "ten": "Làng gốm Phù Lãng",
+          "mo_ta": "Một trong những làng gốm lâu đời nhất miền Bắc với những sản phẩm mang màu men đỏ son đặc trưng của đất nung.",
+          "diem_noi_bat": "Trải nghiệm tự tay làm gốm và check-in bên những bức tường sành, nung gốm truyền thống."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Rất gần Hà Nội (khoảng 30km), có thể đi bằng xe máy hoặc xe buýt nội đô số 54 hoặc 203.",
+        "an_uong": "Bánh phu thê Đình Bảng, nem bùi Ninh Xá, bánh đa kế, cháo thái.",
+        "luu_tru": "Thường du khách đi về trong ngày. Nếu muốn ở lại, trung tâm TP. Bắc Ninh có nhiều khách sạn hiện đại.",
+        "luu_y": "Mùa hội Lim (tháng Giêng âm lịch) là lúc đẹp nhất để nghe Quan họ nhưng sẽ rất đông người."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Bến Tre",
+    "data": {
+      "gioi_thieu": "Xứ sở của những rặng dừa trải dài, mang đậm hơi thở phù sa mặn mòi của miền Tây Nam Bộ.",
+      "diem_du_lich": [
+        {
+          "ten": "Khu du lịch Cồn Phụng",
+          "mo_ta": "Tọa lạc trên một cù lao giữa sông Tiền, nổi tiếng với di tích Đạo Dừa và các xưởng sản xuất kẹo dừa thủ công.",
+          "diem_noi_bat": "Đi xuồng ba lá trong rạch nhỏ, nghe đờn ca tài tử và thưởng thức trà mật ong."
+        },
+        {
+          "ten": "Sân chim Vàm Hồ",
+          "mo_ta": "Hệ sinh thái rừng ngập mặn là nơi cư trú của hơn 500.000 cá thể chim, cò và vạc các loại.",
+          "diem_noi_bat": "Ngắm nhìn từng đàn chim bay về tổ trong ánh hoàng hôn tím rực trên sông nước."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Cách TP.HCM khoảng 85km, xe khách (Minh Tâm, Thịnh Phát) đi qua cầu Rạch Miễu rất nhanh chóng.",
+        "an_uong": "Cơm dừa Bến Tre, gỏi củ hủ dừa, đuông dừa (cho ai can đảm) và kẹo dừa nóng hổi tại lò.",
+        "luu_tru": "Nên chọn các resort sinh thái hoặc homestay ven sông để cảm nhận rõ rệt không khí miệt vườn.",
+        "luu_y": "Nên chuẩn bị mũ nón và kem chống nắng khi đi tham quan bằng tàu trên sông."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Bình Dương",
+    "data": {
+      "gioi_thieu": "Tỉnh công nghiệp phát triển sôi động bậc nhất phía Nam nhưng vẫn giữ được những giá trị tâm linh và các khu vườn cây ăn trái sum suê.",
+      "diem_du_lich": [
+        {
+          "ten": "Khu du lịch Đại Nam",
+          "mo_ta": "Quần thể du lịch tâm linh và giải trí quy mô khổng lồ với kim điện dát vàng, bãi biển nhân tạo và vườn thú mở.",
+          "diem_noi_bat": "Check-in tại quảng trường rộng lớn và trải nghiệm các trò chơi cảm giác mạnh hiện đại."
+        },
+        {
+          "ten": "Chùa Bà Thiên Hậu (Chùa Bà Bình Dương)",
+          "mo_ta": "Ngôi chùa nổi tiếng linh thiêng của cộng đồng người Hoa, là trung tâm tín ngưỡng lớn của vùng Đông Nam Bộ.",
+          "diem_noi_bat": "Lễ hội rước kiệu Bà vào ngày rằm tháng Giêng thu hút hàng vạn lượt khách thập phương."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Sát cạnh TP.HCM, di chuyển bằng xe máy, buýt hoặc taxi đều rất tiện lợi.",
+        "an_uong": "Bánh bèo bì Mỹ Liên, lẩu bò nhúng mắm ruốc, măng cụt Lái Thiêu (vào mùa).",
+        "luu_tru": "Các khách sạn cao cấp tập trung tại TP. Thủ Dầu Một hoặc Thuận An.",
+        "luu_y": "Nên ghé thăm làng gốm sứ truyền thống để mua những món quà lưu niệm tinh xảo."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Bình Định",
+    "data": {
+      "gioi_thieu": "Mảnh đất võ trời văn, nơi có những bãi biển đẹp quyến rũ, những tháp Chàm cổ kính và nền ẩm thực phong phú.",
+      "diem_du_lich": [
+        {
+          "ten": "Kỳ Co - Eo Gió",
+          "mo_ta": "Được mệnh danh là 'Maldives của Việt Nam' với bãi tắm nước xanh ngắt và vách đá hùng vĩ ôm sát biển.",
+          "diem_noi_bat": "Lặn ngắm san hô tại Kỳ Co và check-in cung đường đi bộ ven biển đẹp nhất Việt Nam tại Eo Gió."
+        },
+        {
+          "ten": "Tháp Bánh Ít",
+          "mo_ta": "Cụm 4 tháp Chăm cổ kính nằm trên một ngọn đồi, mang vẻ đẹp kiến trúc tinh xảo và huyền bí từ thế kỷ X.",
+          "diem_noi_bat": "Góc chụp ảnh mang phong cách cổ điển, huyền ảo giữa nắng vàng Bình Định."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Có sân bay Phù Cát (cách Quy Nhơn 30km) hoặc xe khách, tàu hỏa dừng tại ga Diêu Trì.",
+        "an_uong": "Bún chả cá Quy Nhơn, bánh hỏi lòng heo, nem nướng Chợ Huyện, rượu Bàu Đá.",
+        "luu_tru": "Các khách sạn/resort dọc đường Xuân Diệu hoặc An Dương Vương ven biển Quy Nhơn.",
+        "luu_y": "Nên đi vào khoảng tháng 3 đến tháng 9 khi biển êm và nước trong xanh nhất."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Bình Phước",
+    "data": {
+      "gioi_thieu": "Thủ phủ điều của Việt Nam, nơi có những cánh rừng cao su bạt ngàn và vườn quốc gia mang đậm nét hoang sơ.",
+      "diem_du_lich": [
+        {
+          "ten": "Vườn quốc gia Bù Gia Mập",
+          "mo_ta": "Lá phổi xanh của vùng Đông Nam Bộ với hệ động thực vật đa dạng và những dòng thác tuyệt đẹp ẩn mình trong rừng.",
+          "diem_noi_bat": "Phù hợp cho các hoạt động trekking, cắm trại và khám phá thiên nhiên hoang dã."
+        },
+        {
+          "ten": "Núi Bà Rá - Thác Mơ",
+          "mo_ta": "Ngọn núi cao thứ 3 vùng Nam Bộ, nơi có hồ Thủy điện Thác Mơ trong xanh in bóng núi rừng.",
+          "diem_noi_bat": "Đi cáp treo lên đỉnh núi ngắm toàn cảnh thung lũng và hồ nước thơ mộng."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách từ TP.HCM mất khoảng 3 tiếng theo QL13 hoặc QL14.",
+        "an_uong": "Hạt điều rang muối Bình Phước (đặc sản nổi tiếng thế giới), heo thả rông, ve sầu sữa chiên giòn.",
+        "luu_tru": "Nhà nghỉ/khách sạn tại thị xã Phước Long hoặc Đồng Xoài.",
+        "luu_y": "Mùa cao su thay lá (cuối năm) tạo nên khung cảnh lãng mạn như phim Hàn Quốc để chụp ảnh."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Bình Thuận",
+    "data": {
+      "gioi_thieu": "Xứ sở của biển xanh, cát trắng, nắng vàng và những vườn thanh long đỏ rực, nơi sở hữu 'thủ đô resort' Mũi Né.",
+      "diem_du_lich": [
+        {
+          "ten": "Đồi Cát Bay Mũi Né",
+          "mo_ta": "Những đồi cát khổng lồ thay đổi hình dạng theo từng giờ gió thổi, mang nhiều màu sắc từ vàng rực đến trắng xám.",
+          "diem_noi_bat": "Trải nghiệm trượt cát bằng ván nhựa và đi xe mô tô địa hình trên đồi cát trắng (Bàu Trắng)."
+        },
+        {
+          "ten": "Đảo Phú Quý",
+          "mo_ta": "Hòn đảo hoang sơ tuyệt đẹp giữa đại dương với nước biển trong vắt nhìn thấy đáy.",
+          "diem_noi_bat": "Check-in dốc Phượt, cột cờ chủ quyền và thưởng thức cua Huỳnh Đế giá rẻ."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách chất lượng cao từ TP.HCM hoặc tàu hỏa đến ga Phan Thiết/ga Bình Thuận.",
+        "an_uong": "Lẩu thả, răng mực nướng, bánh căn Phan Thiết, thanh long đỏ.",
+        "luu_tru": "Khu vực Mũi Né có hàng trăm resort sát biển từ bình dân đến siêu sang.",
+        "luu_y": "Cái nắng ở đây rất gắt, hãy mang đủ kem chống nắng và kính mát khi đi đồi cát."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Cà Mau",
+    "data": {
+      "gioi_thieu": "Mảnh đất tận cùng phía Nam của tổ quốc, nơi có hệ sinh thái rừng ngập mặn đặc trưng và ý nghĩa thiêng liêng về chủ quyền.",
+      "diem_du_lich": [
+        {
+          "ten": "Mũi Cà Mau (Công viên văn hóa du lịch Mũi Cà Mau)",
+          "mo_ta": "Điểm cực Nam trên đất liền, nơi có biểu tượng con tàu vươn mình ra biển khơi.",
+          "diem_noi_bat": "Check-in mốc tọa độ quốc gia GPS 0001 và ngắm mặt trời mọc ở biển Đông, lặn ở biển Tây tại cùng một vị trí."
+        },
+        {
+          "ten": "Vườn quốc gia U Minh Hạ",
+          "mo_ta": "Khu rừng tràm đất ngập nước rộng lớn với hệ sinh thái động thực vật phong phú, mang đậm nét hoang sơ.",
+          "diem_noi_bat": "Ngồi xuồng đi xuyên rừng tràm và trải nghiệm lấy mật ong rừng cùng người dân địa phương."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Có thể bay trực tiếp từ TP.HCM hoặc đi xe khách giường nằm (khoảng 8-9 tiếng).",
+        "an_uong": "Cua Cà Mau (ngon nhất Việt Nam), cá thòi lòi nướng muối ớt, mắm ba khía rạch gốc.",
+        "luu_tru": "Khách sạn tại TP. Cà Mau hoặc ngủ homestay trong rừng đước Đất Mũi.",
+        "luu_y": "Nên mang theo kem chống muỗi cực mạnh khi vào rừng và chuẩn bị trang phục gọn nhẹ."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Cao Bằng",
+    "data": {
+      "gioi_thieu": "Vùng đất biên thùy miền Đông Bắc với những thắng cảnh kỳ vĩ như tranh vẽ, nổi tiếng với danh hiệu Công viên địa chất toàn cầu UNESCO.",
+      "diem_du_lich": [
+        {
+          "ten": "Thác Bản Giốc",
+          "mo_ta": "Thác nước lớn thứ 4 thế giới nằm trên đường biên giới quốc gia, với vẻ đẹp hùng vĩ như cõi tiên cảnh.",
+          "diem_noi_bat": "Đi bè mảng lại gần chân thác để cảm nhận hơi nước mù mịt và vẻ đẹp choáng ngợp của dòng nước trắng xóa."
+        },
+        {
+          "ten": "Khu di tích Pác Bó",
+          "mo_ta": "Nơi Chủ tịch Hồ Chí Minh từng sống và làm việc sau khi về nước, với suối Lê-nin trong xanh như ngọc bích.",
+          "diem_noi_bat": "Dạo bước bên dòng suối tuyệt đẹp và ghé thăm hang Cốc Bó đầy ý nghĩa lịch sử."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách giường nằm từ Hà Nội (bến Mỹ Đình) mất khoảng 6-7 tiếng. Nên thuê xe máy để di chuyển giữa các điểm.",
+        "an_uong": "Hạt dẻ Trùng Khánh, vịt quay 7 vị, bánh cuốn Cao Bằng, lạp sườn gác bếp.",
+        "luu_tru": "Nên ở khách sạn tại trung tâm TP. Cao Bằng hoặc các homestay gần thác Bản Giốc để ngắm thác sớm.",
+        "luu_y": "Đường xá nhiều đèo dốc quanh co, cần chắc tay lái nếu tự di chuyển bằng xe máy."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Cần Thơ",
+    "data": {
+      "gioi_thieu": "Thủ phủ của miền Tây Nam Bộ, nổi tiếng with vẻ đẹp trù phú của miệt vườn sông nước và nhịp sống nhộn nhịp 'Gạo trắng nước trong'.",
+      "diem_du_lich": [
+        {
+          "ten": "Chợ nổi Cái Răng",
+          "mo_ta": "Một trong những chợ nổi lớn nhất và đặc sắc nhất khu vực đồng bằng sông Cửu Long.",
+          "diem_noi_bat": "Trải nghiệm ăn sáng bún riêu/hủ tiếu ngay trên ghe tàu và xem 'cây bẹo' chào hàng sản vật miền Tây."
+        },
+        {
+          "ten": "Nhà cổ Bình Thủy",
+          "mo_ta": "Ngôi nhà cổ theo kiến trúc Pháp - Hoa độc đáo từ năm 1870, từng là phim trường cho bộ phim nổi tiếng 'Người tình' (The Lover).",
+          "diem_noi_bat": "Check-in không gian cổ kính sang trọng và chiêm ngưỡng vườn lan quý giá."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Sân bay quốc tế Trà Nóc hoặc xe khách từ TP.HCM (khoảng 3-4 tiếng).",
+        "an_uong": "Lẩu mắm, bánh xèo Mười Xiềm, vịt nấu chao, hủ tiếu khô Cần Thơ.",
+        "luu_tru": "Khách sạn ven bến Ninh Kiều để tối có thể dạo chợ đêm và đi du thuyền trên sông.",
+        "luu_y": "Nên đi chợ nổi thật sớm (từ 5h-7h sáng) để cảm nhận trọn vẹn không khí giao thương tấp nập."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Đà Nẵng",
+    "data": {
+      "gioi_thieu": "Thành phố đáng sống nhất Việt Nam, nơi giao hòa giữa sông, núi và biển cả, nổi tiếng với những cây cầu độc đáo.",
+      "diem_du_lich": [
+        {
+          "ten": "Bà Nà Hills",
+          "mo_ta": "Khu du lịch trên đỉnh núi Chúa với kiến trúc làng Pháp cổ kính và khí hậu 4 mùa trong một ngày.",
+          "diem_noi_bat": "Cầu Vàng (Golden Bridge) - biểu tượng du lịch thế giới với hai bàn tay khổng lồ nâng đỡ cung đường giữa mây ngàn."
+        },
+        {
+          "ten": "Bán đảo Sơn Trà - Chùa Linh Ứng",
+          "mo_ta": "Lá phổi xanh của thành phố, nơi có tượng Phật Bà Quan Âm cao nhất Việt Nam hướng mặt ra biển Đông.",
+          "diem_noi_bat": "Ngắm toàn cảnh vịnh Đà Nẵng và có cơ hội gặp loài linh trưởng quý hiếm - Voọc chà vá chân nâu."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Sân bay quốc tế ngay trung tâm, taxi và Grab rất sẵn có. Thuê xe máy là lựa chọn tiết kiệm nhất.",
+        "an_uong": "Mì Quảng, bánh tráng cuốn thịt heo, hải sản ven biển Võ Nguyên Giáp, chè Thái Liên.",
+        "luu_tru": "Resort ven biển Non Nước hoặc khách sạn dọc sông Hàn để ngắm cầu Rồng phun lửa.",
+        "luu_y": "Cầu Rồng thường phun lửa vào 21h tối thứ 7 và Chủ Nhật hàng tuần, hãy đến sớm để có chỗ đứng đẹp."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Đắk Lắk",
+    "data": {
+      "gioi_thieu": "Thủ phủ cà phê của Việt Nam, nơi mang đậm bản sắc văn hóa Tây Nguyên với tiếng cồng chiêng và những đàn voi huyền thoại.",
+      "diem_du_lich": [
+        {
+          "ten": "Bảo tàng Thế giới Cà phê",
+          "mo_ta": "Một công trình kiến trúc độc bản lấy cảm hứng từ nhà dài Tây Nguyên, trưng bày lịch sử cà phê toàn cầu.",
+          "diem_noi_bat": "Góc check-in 'siêu thực' mang đẳng cấp quốc tế và thưởng thức những ly cà phê ngon nhất thế giới."
+        },
+        {
+          "ten": "Hồ Lắk",
+          "mo_ta": "Hồ nước ngọt tự nhiên lớn thứ hai Việt Nam, bao quanh bởi những cánh rừng già và buôn làng người M'Nông.",
+          "diem_noi_bat": "Trải nghiệm chèo thuyền độc mộc trên hồ và ngắm nhìn cuộc sống thanh bình của dân bản."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Có sân bay Buôn Ma Thuột hoặc xe khách giường nằm từ TP.HCM/Đà Nẵng.",
+        "an_uong": "Gà sa lửa, cơm lam, lẩu cá lăng sông Sêrêpốk, bún đỏ Buôn Ma Thuột.",
+        "luu_tru": "Các khách sạn trung tâm TP. Buôn Ma Thuột hoặc ngủ tại nhà dài trong Buôn Đôn.",
+        "luu_y": "Nên đi vào mùa hoa cà phê nở trắng rừng (tháng 3) hoặc mùa lễ hội Cồng chiêng."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Đắk Nông",
+    "data": {
+      "gioi_thieu": "Vùng đất của những bản sử thi huyền thoại và hệ thống hang động núi lửa dài nhất Đông Nam Á.",
+      "diem_du_lich": [
+        {
+          "ten": "Hồ Tà Đùng",
+          "mo_ta": "Được mệnh danh là 'Vịnh Hạ Long trên Tây Nguyên' với hơn 40 hòn đảo lớn nhỏ nhấp nhô giữa mặt hồ mênh mông.",
+          "diem_noi_bat": "Ngắm nhìn khung cảnh kỳ vĩ từ đỉnh đèo và trải nghiệm ngủ lều săn mây ven hồ."
+        },
+        {
+          "ten": "Thác Dray Sáp",
+          "mo_ta": "Ngọn thác hùng vĩ gắn liền với truyền thuyết tình yêu cảm động của người Ê Đê.",
+          "diem_noi_bat": "Chiêm ngưỡng dòng nước đổ xuống từ độ cao 20m tạo nên làn khói sương mù mịt (tên thác nghĩa là Thác Khói)."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách từ TP.HCM mất khoảng 6 tiếng. Đường đi Tà Đùng khá quanh co nhưng rất đẹp.",
+        "an_uong": "Cá lăng nướng, cơm lam, rượu cần Tây Nguyên.",
+        "luu_tru": "Các homestay/camping tại khu vực hồ Tà Đùng là lựa chọn tuyệt vời nhất.",
+        "luu_y": "Nên mang theo áo ấm vì nhiệt độ ban đêm ở đây xuống khá thấp."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Điện Biên",
+    "data": {
+      "gioi_thieu": "Vùng đất gắn liền với chiến thắng 'Lừng lẫy năm châu, chấn động địa cầu', mang vẻ đẹp oai hùng và hoang sơ của núi rừng Tây Bắc.",
+      "diem_du_lich": [
+        {
+          "ten": "Quần thể di tích chiến trường Điện Biên Phủ",
+          "mo_ta": "Bao gồm Đồi A1, Hầm Đờ Cát, Bảo tàng Chiến thắng lịch sử Điện Biên Phủ.",
+          "diem_noi_bat": "Bức tranh Panorama về chiến dịch Điện Biên Phủ lớn nhất thế giới tại Bảo tàng."
+        },
+        {
+          "ten": "Cánh đồng Mường Thanh",
+          "mo_ta": "Một trong bốn cánh đồng lớn nhất vùng Tây Bắc với vẻ đẹp trù phú, được bao quanh bởi các dãy núi trùng điệp.",
+          "diem_noi_bat": "Ngắm nhìn thảm lúa vàng rực rỡ vào mùa thu hoạch và tìm hiểu văn hóa người Thái."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Máy bay từ Hà Nội (khoảng 1 tiếng) hoặc xe khách giường nằm mất 10-12 tiếng.",
+        "an_uong": "Xôi nếp nương, thịt gác bếp, nộm hoa ban, gà nướng mắc khén.",
+        "luu_tru": "Khách sạn tại trung tâm TP. Điện Biên Phủ hoặc homestay tại các bản văn hóa dân tộc.",
+        "luu_y": "Nên đi vào dịp kỷ niệm chiến thắng Điện Biên Phủ (7/5) để cảm nhận không khí hào hùng nhất."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Đồng Nai",
+    "data": {
+      "gioi_thieu": "Vùng đất giao hòa giữa công nghiệp hiện đại và những mảng xanh nguyên sinh, nơi có vườn quốc gia Cát Tiên nổi tiếng.",
+      "diem_du_lich": [
+        {
+          "ten": "Vườn quốc gia Cát Tiên",
+          "mo_ta": "Khu dự trữ sinh quyển thế giới với hệ động thực vật đa dạng, là nơi bảo tồn loài tê giác một sừng trước đây.",
+          "diem_noi_bat": "Trải nghiệm tour ngắm thú đêm và trekking rừng ngập mặn Bàu Sấu."
+        },
+        {
+          "ten": "Khu du lịch Bửu Long",
+          "mo_ta": "Được ví như 'Vịnh Hạ Long thu nhỏ' của miền Nam với những ngọn núi đá vôi nhô lên giữa hồ nước nhân tạo xanh biếc.",
+          "diem_noi_bat": "Không gian xanh mát, nhiều góc sống ảo và phù hợp cho các buổi dã ngoại gia đình."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Rất gần TP.HCM, có thể đi bằng xe máy, xe buýt hoặc taxi chỉ mất 1-2 tiếng.",
+        "an_uong": "Gỏi bưởi Tân Triều, lẩu khổ qua cá thác lác, dế cơm chiên nước mắm.",
+        "luu_tru": "Khách sạn tại TP. Biên Hòa hoặc các khu nghỉ dưỡng sinh thái tại Định Quán, Tân Phú.",
+        "luu_y": "Khi đi rừng Cát Tiên, cần chuẩn bị thuốc xịt côn trùng và trang phục che kín để tránh vắt."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Đồng Tháp",
+    "data": {
+      "gioi_thieu": "Xứ sở của những đóa sen hồng và những cánh đồng tràm ngập nước, mang vẻ đẹp bình dị đặc trưng của miền Tây.",
+      "diem_du_lich": [
+        {
+          "ten": "Khu du lịch sinh thái Xẻo Quýt",
+          "mo_ta": "Căn cứ cách mạng nằm giữa rừng tràm nguyên sinh, nơi bạn có thể khám phá bằng thuyền ba lá.",
+          "diem_noi_bat": "Cảm giác len lỏi dưới tán tràm mát rượi và nghe kể về những câu chuyện lịch sử kháng chiến."
+        },
+        {
+          "ten": "Làng hoa Sa Đéc",
+          "mo_ta": "Một trong những vựa hoa lớn nhất miền Tây, nổi tiếng với cách trồng hoa trên giàn giáo trên mặt nước.",
+          "diem_noi_bat": "Check-in hàng ngàn loài hoa khoe sắc rực rỡ, nhất là vào dịp cận Tết Nguyên Đán."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách từ TP.HCM mất khoảng 3-4 tiếng. Đi qua cầu Cao Lãnh hiện đại.",
+        "an_uong": "Hủ tiếu Sa Đéc, lẩu linh bông điên điển, các món ăn từ gương sen và hạt sen.",
+        "luu_tru": "Homestay tại làng hoa Sa Đéc hoặc khách sạn tại TP. Cao Lãnh.",
+        "luu_y": "Mùa nước nổi (tháng 9-11) là lúc Đồng Tháp Mười đẹp nhất với những cánh đồng sen bát ngát."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Gia Lai",
+    "data": {
+      "gioi_thieu": "Vùng đất của những ngọn núi lửa đã ngủ yên và những đồi chè xanh mướt, mang vẻ đẹp hoang dại của cao nguyên Pleiku.",
+      "diem_du_lich": [
+        {
+          "ten": "Biển Hồ (Hồ T'Nưng)",
+          "mo_ta": "Được ví như 'Đôi mắt Pleiku', đây là một miệng núi lửa đã tắt từ hàng triệu năm trước, nước hồ xanh trong vắt.",
+          "diem_noi_bat": "Cung đường thông reo dẫn lối vào hồ và vẻ đẹp thơ mộng khi sương sớm còn phủ mặt nước."
+        },
+        {
+          "ten": "Núi lửa Chư Đăng Ya",
+          "mo_ta": "Ngọn núi lửa hùng vĩ giữa vùng đất đỏ đại ngàn, nơi mỗi mùa hoa dã quỳ nở lại biến thành một tấm thảm vàng rực.",
+          "diem_noi_bat": "Leo núi ngắm toàn cảnh thung lũng và hít hà không khí cao nguyên trong lành."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Có sân bay Pleiku hoặc xe khách giường nằm từ TP.HCM/Đà Nẵng.",
+        "an_uong": "Phở khô Gia Lai (phở hai tô), gà sa lửa, cà phê Pleiku đậm đà.",
+        "luu_tru": "Khách sạn tại trung tâm TP. Pleiku là thuận tiện nhất.",
+        "luu_y": "Tháng 11 là thời điểm lý tưởng nhất vì hoa dã quỳ nở rộ khắp các cung đường."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Hà Giang",
+    "data": {
+      "gioi_thieu": "Địa đầu tổ quốc với những dãy núi đá vôi hùng vĩ, những cung đèo hiểm trở và vẻ đẹp mộc mạc của các dân tộc vùng cao.",
+      "diem_du_lich": [
+        {
+          "ten": "Cột cờ Lũng Cú",
+          "mo_ta": "Điểm cực Bắc thiêng liêng của tổ quốc, nơi lá cờ đỏ sao vàng rộng 54m2 tung bay trên đỉnh núi Rồng.",
+          "diem_noi_bat": "Cảm giác tự hào khi đứng dưới chân cột cờ ngắm nhìn toàn cảnh biên giới Việt - Trung."
+        },
+        {
+          "ten": "Đèo Mã Pì Lèng & Sông Nho Quế",
+          "mo_ta": "Một trong 'tứ đại đỉnh đèo' của Việt Nam với dòng sông xanh ngọc bích chảy hiền hòa dưới thung lũng sâu thẳm.",
+          "diem_noi_bat": "Trải nghiệm đi thuyền trên sông Nho Quế xuyên qua hẻm vực Tu Sản kỳ vĩ nhất Đông Nam Á."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách giường nằm từ Hà Nội (8-10 tiếng). Tại Hà Giang nên thuê xe máy (loop tour) để tự mình chinh phục các con đèo.",
+        "an_uong": "Thắng cố, cháo ấu tẩu, bánh tam giác mạch, rượu ngô men lá.",
+        "luu_tru": "Homestay nhà trình tường tại Đồng Văn, Mèo Vạc để trải nghiệm văn hóa bản địa.",
+        "luu_y": "Đường rất nhiều cua gắt, hãy kiểm tra phanh xe kỹ lưỡng và đi chậm nếu chưa quen đường đèo."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Hà Nam",
+    "data": {
+      "gioi_thieu": "Vùng đất cửa ngõ phía Nam Hà Nội, nổi tiếng với các di tích lịch sử và quần thể khu du lịch tâm linh lớn nhất Việt Nam.",
+      "diem_du_lich": [
+        {
+          "ten": "Chùa Tam Chúc",
+          "mo_ta": "Quần thể chùa lớn nhất thế giới nằm bên hồ Lục Nhạc với kiến trúc đồ sộ và phong cảnh sơn thủy hữu tình.",
+          "diem_noi_bat": "Đi thuyền trên hồ ngắm nhìn những ngọn núi nhấp nhô và chiêm bái Điện Tam Thế uy nghiêm."
+        },
+        {
+          "ten": "Nhà Bá Kiến (Làng Vũ Đại)",
+          "mo_ta": "Ngôi nhà gỗ lim cổ nguyên bản gắn liền với bối cảnh truyện ngắn nổi tiếng của nhà văn Nam Cao.",
+          "diem_noi_bat": "Tìm hiểu về kiến trúc nhà cổ vùng đồng bằng Bắc Bộ và thưởng thức món cá kho trứ danh."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Cách Hà Nội chỉ khoảng 60km, rất dễ dàng đi bằng xe máy hoặc xe khách theo hướng QL1A.",
+        "an_uong": "Cá kho làng Vũ Đại, bánh cuốn Phủ Lý, bún cá rô đầm sét.",
+        "luu_tru": "Thường đi trong ngày từ Hà Nội, hoặc ở tại các khách sạn TP. Phủ Lý.",
+        "luu_y": "Chùa Tam Chúc rất rộng, hãy chuẩn bị giày đi bộ thoải mái và mũ nón."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Hà Nội",
+    "data": {
+      "gioi_thieu": "Thủ đô ngàn năm văn hiến, nơi lưu giữ những giá trị lịch sử lâu đời bên cạnh sự nhộn nhịp của một đô thị hiện đại.",
+      "diem_du_lich": [
+        {
+          "ten": "Hồ Hoàn Kiếm & Phố Cổ",
+          "mo_ta": "Trái tim của Hà Nội với 36 phố phường rêu phong và cụm di tích đền Ngọc Sơn, cầu Thê Húc.",
+          "diem_noi_bat": "Đi dạo phố đi bộ vào cuối tuần và thưởng thức cà phê trứng trong những ngõ nhỏ cổ kính."
+        },
+        {
+          "ten": "Lăng Chủ tịch Hồ Chí Minh",
+          "mo_ta": "Nơi an nghỉ vĩnh hằng của vị lãnh tụ vĩ đại, tọa lạc tại quảng trường Ba Đình lịch sử.",
+          "diem_noi_bat": "Lễ thượng cờ và hạ cờ trang nghiêm hằng ngày và tham quan khu di tích Phủ Chủ tịch."
+        },
+        {
+          "ten": "Văn Miếu - Quốc Tử Giám",
+          "mo_ta": "Trường đại học đầu tiên của Việt Nam, biểu tượng của tinh thần hiếu học và trí tuệ Việt.",
+          "diem_noi_bat": "Kiến trúc cổ điển mang đậm nét Nho giáo và những bia đá ghi danh các trạng nguyên."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Hệ thống giao thông đa dạng từ buýt, taxi đến xe ôm máy. Nên thử đi xe buýt 2 tầng ngắm phố phường.",
+        "an_uong": "Phở Hà Nội, bún chả (như hàng Obama đã ghé), bún đậu mắm tôm, chả cá Lã Vọng.",
+        "luu_tru": "Các khách sạn Boutique trong phố cổ để cảm nhận rõ nhất nhịp sống Hà Nội.",
+        "luu_y": "Nên chú ý bảo quản tài sản cá nhân khi tham gia vào các khu vực đông đúc như chợ Đồng Xuân."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Hà Tĩnh",
+    "data": {
+      "gioi_thieu": "Vùng đất miền Trung đầy nắng gió nhưng giàu truyền thống hiếu học, có những bãi biển đẹp và di tích lịch sử ý nghĩa.",
+      "diem_du_lich": [
+        {
+          "ten": "Ngã ba Đồng Lộc",
+          "mo_ta": "Khu di tích lịch sử gắn liền với sự hy sinh của 10 cô gái thanh niên xung phong trong cuộc kháng chiến chống Mỹ.",
+          "diem_noi_bat": "Không gian linh thiêng, xúc động với nhà bia tưởng niệm và tượng đài chiến thắng."
+        },
+        {
+          "ten": "Biển Thiên Cầm",
+          "mo_ta": "Bãi biển có hình dáng như một cây đàn cầm khổng lồ, nước biển xanh trong và sóng rất êm.",
+          "diem_noi_bat": "Hải sản tươi ngon, giá cả hợp lý và không gian yên tĩnh hơn so với nhiều bãi biển khác."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Có thể đi tàu hỏa, xe khách hoặc bay đến Vinh rồi di chuyển bằng taxi/bus sang Hà Tĩnh.",
+        "an_uong": "Kẹo cu đơ, gỏi cá đục, mực nhảy Vũng Áng, bánh mướt ram.",
+        "luu_tru": "Các resort tại Thiên Cầm hoặc khách sạn tại TP. Hà Tĩnh.",
+        "luu_y": "Mùa hè ở đây rất nóng (có gió Lào), nên đi vào sáng sớm hoặc chiều muộn khi tắm biển."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Hải Dương",
+    "data": {
+      "gioi_thieu": "Tỉnh nằm ở trung tâm đồng bằng sông Hồng, nổi tiếng với đặc sản bánh đậu xanh và các khu di tích lịch sử lâu đời.",
+      "diem_du_lich": [
+        {
+          "ten": "Khu di tích Côn Sơn - Kiếp Bạc",
+          "mo_ta": "Gắn liền với tên tuổi các danh nhân văn hóa thế giới Nguyễn Trãi và Anh hùng dân tộc Trần Hưng Đạo.",
+          "diem_noi_bat": "Phong cảnh hữu tình with thông reo suối chảy và những lễ hội truyền thống đặc sắc."
+        },
+        {
+          "ten": "Đảo Cò Chi Lăng Nam",
+          "mo_ta": "Một 'ốc đảo xanh' kỳ thú giữa lòng hồ An Dương, nơi cư ngụ của hàng vạn cá thể cò, vạc.",
+          "diem_noi_bat": "Đi thuyền trên hồ ngắm nhìn hàng vạn cánh cò trắng đậu kín các lùm cây vào lúc hoàng hôn."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Nằm giữa Hà Nội và Hải Phòng, rất thuận tiện đi bằng xe khách hoặc tàu hỏa mất khoảng 1.5 tiếng.",
+        "an_uong": "Bánh đậu xanh, bánh gai Ninh Giang, bún cá rô đồng, vải thiều Thanh Hà.",
+        "luu_tru": "Khách sạn tại trung tâm TP. Hải Dương hoặc các nhà nghỉ gần khu di tích Côn Sơn.",
+        "luu_y": "Nên mua bánh đậu xanh làm quà vì đây là loại bánh nổi tiếng nhất Việt Nam về độ ngon và bùi."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Hải Phòng",
+    "data": {
+      "gioi_thieu": "Thành phố Cảng năng động với những hàng hoa phượng đỏ rực và quần đảo Cát Bà tuyệt đẹp - Di sản thiên nhiên thế giới.",
+      "diem_du_lich": [
+        {
+          "ten": "Đảo Cát Bà & Vịnh Lan Hạ",
+          "mo_ta": "Vịnh biển trong xanh với hàng trăm đảo đá vôi nhỏ nhấp nhô, mang vẻ đẹp bình yên hơn vịnh Hạ Long.",
+          "diem_noi_bat": "Chèo thuyền Kayak xuyên qua các hang sáng hang tối và tham quan làng chài cổ Cái Bèo."
+        },
+        {
+          "ten": "Đồ Sơn",
+          "mo_ta": "Khu nghỉ mát lâu đời với các bãi tắm và sòng bài, nơi có biệt thự Bảo Đại tọa lạc trên đồi cao.",
+          "diem_noi_bat": "Không gian thoáng đãng, nhiều dịch vụ giải trí và lễ hội chọi trâu nổi tiếng."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Tàu hỏa từ Hà Nội là trải nghiệm thú vị (Food tour Hải Phòng). Có sân bay quốc tế Cát Bi.",
+        "an_uong": "Bánh đa cua, nem cua bể, bánh mì que, ốc Hải Phòng, dừa dầm.",
+        "luu_tru": "Resort tại Cát Bà hoặc khách sạn trung tâm Hải Phòng để thuận tiện tham gia Food Tour.",
+        "luu_y": "Nên đặt vé phà ra đảo Cát Bà sớm vào mùa cao điểm để tránh chờ đợi lâu."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Hậu Giang",
+    "data": {
+      "gioi_thieu": "Vùng đất trẻ trung tại trung tâm miền Tây, mang nét đẹp sơ khai của kênh rạch chằng chịt và những vườn cây ăn trái.",
+      "diem_du_lich": [
+        {
+          "ten": "Khu bảo tồn thiên nhiên Lung Ngọc Hoàng",
+          "mo_ta": "Được coi là 'lá phổi xanh' của vùng Tây sông Hậu với hệ sinh thái đất ngập nước đa dạng.",
+          "diem_noi_bat": "Trải nghiệm đi xuồng máy xuyên rừng tràm và ngắm nhìn các loài chim quý hiếm."
+        },
+        {
+          "ten": "Chợ nổi Ngã Bảy (Phụng Hiệp)",
+          "mo_ta": "Một trong những chợ nổi có lịch sử lâu đời nhất miền Tây, là nơi giao nhau của 7 nhánh sông.",
+          "diem_noi_bat": "Tìm hiểu nét văn hóa giao thương độc đáo trên sông nước của người dân Nam Bộ."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Nằm cạnh Cần Thơ, di chuyển bằng xe khách hoặc xe máy chỉ mất khoảng 1 tiếng từ Cần Thơ.",
+        "an_uong": "Chả cá thát lát Hậu Giang (nổi tiếng nhất), quýt đường Long Trị, cá lóc nướng trui.",
+        "luu_tru": "Khách sạn tại TP. Vị Thanh hoặc các homestay sinh thái ven sông.",
+        "luu_y": "Nên kết hợp chuyến đi từ Cần Thơ để tiết kiệm thời gian và tham quan được nhiều hơn."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Hòa Bình",
+    "data": {
+      "gioi_thieu": "Cửa ngõ vùng Tây Bắc, nổi tiếng với công trình thủy điện đồ sộ và văn hóa đặc sắc của dân tộc Mường.",
+      "diem_du_lich": [
+        {
+          "ten": "Bản Lác - Mai Châu",
+          "mo_ta": "Thung lũng thơ mộng với những cánh đồng lúa xanh mướt và những nếp nhà sàn của người Thái trắng.",
+          "diem_noi_bat": "Đạp xe quanh bản, thưởng thức điệu múa xòe và hòa mình vào cuộc sống yên bình nơi rẻo cao."
+        },
+        {
+          "ten": "Hồ Hòa Bình",
+          "mo_ta": "Hồ nhân tạo lớn nhất Đông Nam Á, được ví như một 'Hạ Long trên núi'.",
+          "diem_noi_bat": "Đi tàu trên lòng hồ ngắm nhìn những hòn đảo nhỏ và ghé thăm đền Chúa Thác Bờ linh thiêng."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Cách Hà Nội khoảng 80km, rất thích hợp cho những chuyến đi phượt bằng xe máy hoặc xe bus cuối tuần.",
+        "an_uong": "Cơm lam, lợn mán thui luộc, cá suối nướng, măng đắng.",
+        "luu_tru": "Homestay nhà sàn tại Mai Châu hoặc các khu resort cao cấp như Serena Kim Bôi.",
+        "luu_y": "Nên thử trải nghiệm tắm khoáng nóng tại Kim Bôi để thư giãn sức khỏe."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Hưng Yên",
+    "data": {
+      "gioi_thieu": "Xứ sở của nhãn lồng tiến vua, mảnh đất có thương cảng Phố Hiến sầm uất nhất miền Bắc một thời.",
+      "diem_du_lich": [
+        {
+          "ten": "Phố Hiến (Chùa Chuông, Đền Mẫu)",
+          "mo_ta": "Quần thể di tích lịch sử gắn liền với câu nói 'Thứ nhất Kinh Kỳ, thứ nhì Phố Hiến'.",
+          "diem_noi_bat": "Vẻ đẹp kiến trúc cổ kính trang nghiêm và không gian văn hóa đậm chất vùng đồng bằng Bắc Bộ."
+        },
+        {
+          "ten": "Làng Nôm",
+          "mo_ta": "Một ngôi làng cổ hiếm hoi còn giữ nguyên vẹn cổng làng, cây đa, bến nước, sân đình và những ngôi nhà cổ.",
+          "diem_noi_bat": "Check-in cây cầu đá cổ nhất vùng Kinh Bắc với hơn 200 năm tuổi."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Sát vách Hà Nội, có thể di chuyển bằng xe máy, buýt hoặc taxi mất khoảng 1 tiếng.",
+        "an_uong": "Nhãn lồng Hưng Yên (vào tháng 7-8), chè sen long nhãn, bún thang lươn, gà Đông Tảo.",
+        "luu_tru": "Thường du khách đi về trong ngày. Nếu ở lại có thể chọn khách sạn tại TP. Hưng Yên.",
+        "luu_y": "Nên ghé thăm vào mùa nhãn chín để được tự tay hái và thưởng thức những chùm nhãn ngọt lịm ngay tại vườn."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Khánh Hòa",
+    "data": {
+      "gioi_thieu": "Xứ sở 'Trầm hương, Yến sào' với vịnh Nha Trang - một trong những vịnh biển đẹp nhất thế giới, nơi sở hữu những hòn đảo thiên đường và dịch vụ nghỉ dưỡng cao cấp.",
+      "diem_du_lich": [
+        {
+          "ten": "VinWonders Nha Trang (Đảo Hòn Tre)",
+          "mo_ta": "Công viên giải trí đẳng cấp thế giới với hệ thống cáp treo vượt biển dài nhất thế giới và vô số trò chơi mạo hiểm.",
+          "diem_noi_bat": "Show diễn đa phương tiện Tata Show hoành tráng và khu vườn thực vật năm châu rực rỡ sắc màu."
+        },
+        {
+          "ten": "Tháp Bà Ponagar",
+          "mo_ta": "Quần thể kiến trúc đền tháp Chăm Pa lớn nhất miền Trung, tọa lạc trên một ngọn đồi nhỏ ven sông Cái.",
+          "diem_noi_bat": "Tìm hiểu về văn hóa tín ngưỡng thờ mẫu của người Chăm và trải nghiệm tắm bùn khoáng nóng gần đó."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Sân bay quốc tế Cam Ranh cách Nha Trang 30km. Trong thành phố có thể đi taxi, xe buýt hoặc thuê xe máy.",
+        "an_uong": "Bún chả cá Nha Trang, nem nướng Ninh Hòa, hải sản làng chài, bánh căn hải sản.",
+        "luu_tru": "Các khách sạn dọc đường Trần Phú ven biển hoặc các resort biệt lập trên các đảo như Hòn Tằm, Hòn Tre.",
+        "luu_y": "Nên đi vào mùa khô (tháng 1 đến tháng 8). Tránh đi vào dịp cuối năm vì thường có mưa bão."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Kiên Giang",
+    "data": {
+      "gioi_thieu": "Tỉnh ven biển miền Tây nổi tiếng với 'Đảo Ngọc' Phú Quốc và quần đảo Nam Du hoang sơ, mang vẻ đẹp quyến rũ của đại dương.",
+      "diem_du_lich": [
+        {
+          "ten": "Phú Quốc (Bãi Sao, Sunset Town)",
+          "mo_ta": "Hòn đảo lớn nhất Việt Nam với những bãi cát trắng mịn như kem và làn nước trong vắt.",
+          "diem_noi_bat": "Ngắm hoàng hôn tại Sunset Sanato, đi cáp treo Hòn Thơm và khám phá vườn thú Safari bán hoang dã."
+        },
+        {
+          "ten": "Quần đảo Nam Du",
+          "mo_ta": "Nơi được ví như 'Vịnh Hạ Long của phương Nam' với những hòn đảo hoang sơ, chưa chịu nhiều tác động của con người.",
+          "diem_noi_bat": "Cắm trại bên bờ biển, lặn ngắm san hô và thưởng thức nhum biển nướng mỡ hành."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Bay trực tiếp đến Phú Quốc hoặc đi tàu cao tốc từ Rạch Giá/Hà Tiên ra các đảo.",
+        "an_uong": "Gỏi cá trích Phú Quốc, bún quậy Thanh Hùng, rượu sim, nước mắm cá cơm truyền thống.",
+        "luu_tru": "Phú Quốc có đầy đủ từ homestay đến resort 6 sao. Nam Du nên ở homestay của người dân địa phương.",
+        "luu_y": "Nên đặt vé tàu và phòng trước ít nhất 1 tháng nếu đi vào mùa cao điểm (tháng 11 - tháng 4)."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Kon Tum",
+    "data": {
+      "gioi_thieu": "Vùng đất của những ngọn núi hùng vĩ, những dòng sông chảy ngược và nét văn hóa độc đáo của các dân tộc Ba Na, Xơ Đăng.",
+      "diem_du_lich": [
+        {
+          "ten": "Nhà thờ Gỗ Kon Tum",
+          "mo_ta": "Công trình kiến trúc độc bản kết hợp hoàn hảo giữa phong cách Roman và kiến trúc nhà sàn truyền thống của người Ba Na.",
+          "diem_noi_bat": "Được xây dựng hoàn toàn bằng gỗ sến đỏ, không dùng đinh, với những đường nét điêu khắc tinh xảo."
+        },
+        {
+          "ten": "Măng Đen",
+          "mo_ta": "Được mệnh danh là 'Đà Lạt thứ hai' của Tây Nguyên với rừng thông bạt ngàn và khí hậu quanh năm se lạnh.",
+          "diem_noi_bat": "Khám phá thác Pa Sỹ, chùa Khánh Lâm và tận hưởng không gian tĩnh lặng, yên bình tuyệt đối."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Đi xe khách từ các tỉnh hoặc bay đến Pleiku rồi di chuyển đường bộ khoảng 50km đến Kon Tum.",
+        "an_uong": "Gỏi lá Kon Tum (hơn 40 loại lá rừng), gà nướng cơm lam Măng Đen, lẩu xuyên tiêu.",
+        "luu_tru": "Khách sạn tại TP. Kon Tum hoặc các homestay xinh xắn giữa rừng thông tại Măng Đen.",
+        "luu_y": "Măng Đen buổi tối rất lạnh, hãy mang theo áo ấm dày dù là mùa hè."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Lai Châu",
+    "data": {
+      "gioi_thieu": "Vùng biên viễn Tây Bắc với những đỉnh núi cao ngất trời và những bản làng mộc mạc ẩn mình trong sương sớm.",
+      "diem_du_lich": [
+        {
+          "ten": "Đèo Ô Quy Hồ",
+          "mo_ta": "Một trong tứ đại đỉnh đèo của Việt Nam, nối liền Lai Châu và Lào Cai, mang vẻ đẹp hùng vĩ đến nghẹt thở.",
+          "diem_noi_bat": "Săn mây tại đỉnh đèo và ngắm nhìn hoàng hôn rực rỡ từ Cổng Trời."},
+        {
+          "ten": "Cao nguyên Sìn Hồ",
+          "mo_ta": "Nơi được ví như 'nóc nhà' của tỉnh Lai Châu với khí hậu mát mẻ quanh năm và nhiều thắng cảnh thiên nhiên hoang sơ.",
+          "diem_noi_bat": "Khám phá chợ phiên Sìn Hồ rực rỡ màu sắc và trải nghiệm tắm lá thuốc của người Dao đỏ."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách giường nằm từ Hà Nội mất khoảng 7-8 tiếng. Đường đèo dốc nên cần tài xế có kinh nghiệm.",
+        "an_uong": "Lợn cắp nách, cá suối nướng, măng đắng, rượu ngô Sùng Phài.",
+        "luu_tru": "Nhà nghỉ tại TP. Lai Châu hoặc các homestay tại Sìn Hồ, Tam Đường.",
+        "luu_y": "Nên mang theo đầy đủ giấy tờ tùy thân vì đây là khu vực biên giới."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Lạng Sơn",
+    "data": {
+      "gioi_thieu": "Mảnh đất 'Đồng Đăng có phố Kỳ Lừa', cửa ngõ quan trọng phía Bắc với những danh lam thắng cảnh gắn liền với lịch sử và tâm linh.",
+      "diem_du_lich": [
+        {
+          "ten": "Mẫu Sơn",
+          "mo_ta": "Vùng núi cao nổi tiếng với khí hậu ôn đới, nơi thường xuyên có tuyết rơi vào mùa đông.",
+          "diem_noi_bat": "Ngắm hoa cẩm tú cầu vào mùa hè và săn tuyết rơi, băng giá vào những đợt rét đậm mùa đông."
+        },
+        {
+          "ten": "Động Nhị Thanh - Chùa Tam Thanh",
+          "mo_ta": "Hệ thống hang động kỳ ảo với những nhũ đá tự nhiên và tượng đá nàng Tô Thị chung thủy hóa đá chờ chồng.",
+          "diem_noi_bat": "Chiêm ngưỡng vẻ đẹp của 'Lạng Sơn đệ nhất bát cảnh' và cầu may tại chùa Tam Thanh linh thiêng."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Cách Hà Nội 150km, đi bằng ô tô theo cao tốc Bắc Giang - Lạng Sơn chỉ mất khoảng 2.5 tiếng.",
+        "an_uong": "Vịt quay Lạng Sơn, lợn quay lá mác mật, phở vịt, khâu nhục.",
+        "luu_tru": "Khách sạn tại TP. Lạng Sơn rất hiện đại, hoặc homestay tại vùng núi Mẫu Sơn.",
+        "luu_y": "Đừng quên ghé thăm chợ Đông Kinh để mua sắm các mặt hàng gia dụng và quà lưu niệm."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Lào Cai",
+    "data": {
+      "gioi_thieu": "Địa danh du lịch nổi tiếng thế giới với Sa Pa mờ sương và đỉnh Fansipan - nóc nhà của Đông Dương.",
+      "diem_du_lich": [
+        {
+          "ten": "Sa Pa & Đỉnh Fansipan",
+          "mo_ta": "Thị trấn vùng cao thơ mộng với những thửa ruộng bậc thang kỳ vĩ và hệ thống cáp treo hiện đại lên đỉnh Fansipan.",
+          "diem_noi_bat": "Chạm tay vào cột mốc 3.143m và khám phá bản Cát Cát của người Mông."},
+        {
+          "ten": "Y Tý",
+          "mo_ta": "Vùng đất biên thùy nằm ở độ cao hơn 2.000m, nơi mây phủ quanh năm và những ngôi nhà trình tường độc đáo.",
+          "diem_noi_bat": "Địa điểm săn mây đẹp nhất miền Bắc và ngắm mùa vàng ruộng bậc thang vào tháng 9."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Tàu hỏa từ Hà Nội (trải nghiệm lãng mạn) hoặc xe khách giường nằm cao tốc mất 5 tiếng.",
+        "an_uong": "Thắng cố, cá hồi Sa Pa, rau mầm đá, lợn bản nướng.",
+        "luu_tru": "Khách sạn view thung lũng tại Sa Pa hoặc homestay bản làng để hòa nhập cuộc sống dân tộc.",
+        "luu_y": "Nên chuẩn bị trang phục giữ ấm vì Sa Pa có thể lạnh đột ngột ngay cả trong mùa hè."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Lâm Đồng",
+    "data": {
+      "gioi_thieu": "Xứ sở ngàn hoa với Đà Lạt mộng mơ trên cao nguyên Lâm Viên, là điểm đến lãng mạn nhất Việt Nam.",
+      "diem_du_lich": [
+        {
+          "ten": "Hồ Xuân Hương & Chợ Đà Lạt",
+          "mo_ta": "Trái tim của thành phố với nhịp sống chậm rãi buổi sáng và nhộn nhịp buổi đêm.",
+          "diem_noi_bat": "Thưởng thức sữa đậu nành nóng và bánh tráng nướng giữa không khí se lạnh."
+        },
+        {
+          "ten": "Hồ Tuyền Lâm",
+          "mo_ta": "Hồ nước xanh biếc bao quanh bởi rừng thông, nơi có thiền viện Trúc Lâm thanh tịnh.",
+          "diem_noi_bat": "Chèo thuyền Kayak ngắm hoàng hôn và check-in các khu nghỉ dưỡng cao cấp ven hồ."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Bay đến sân bay Liên Khương hoặc đi xe khách giường nằm từ TP.HCM mất 6-7 tiếng.",
+        "an_uong": "Lẩu gà lá é, bánh ướt lòng gà, kem bơ, hồng treo gió.",
+        "luu_tru": "Homestay nhỏ xinh trên các triền dốc hoặc biệt thự cổ kiểu Pháp.",
+        "luu_y": "Nên chuẩn bị áo khoác nhẹ vì Đà Lạt luôn mát lạnh về đêm và sáng sớm."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Long An",
+    "data": {
+      "gioi_thieu": "Cửa ngõ miền Tây nối liền TP.HCM và Đồng bằng sông Cửu Long, mang vẻ đẹp của vùng đất ngập nước Đồng Tháp Mười.",
+      "diem_du_lich": [
+        {
+          "ten": "Làng nổi Tân Lập",
+          "mo_ta": "Hệ sinh thái rừng tràm ngập nước với con đường xuyên rừng bằng bê tông dài nhất Việt Nam.",
+          "diem_noi_bat": "Đi thuyền xuôi theo dòng kênh xanh ngắt và chụp ảnh trên con đường mòn giữa rừng tràm u tịch."},
+        {
+          "ten": "Khu du lịch Cánh Đồng Bất Tận",
+          "mo_ta": "Nơi lấy bối cảnh cho bộ phim cùng tên, nổi tiếng với các sản phẩm dược liệu từ rừng tràm.",
+          "diem_noi_bat": "Thưởng thức trà thảo mộc và trải nghiệm tắm rừng, ngắm nhìn hệ thực vật đặc hữu."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Rất gần TP.HCM, có thể đi xe máy hoặc xe khách theo hướng QL1A hoặc cao tốc.",
+        "an_uong": "Lạp xưởng Cần Đước, rượu Đế Gò Đen, bánh in Long An.",
+        "luu_tru": "Thường đi trong ngày, hoặc ở lại các homestay trong khu du lịch sinh thái.",
+        "luu_y": "Nên đi vào mùa nước nổi để thấy rừng tràm đẹp nhất."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Nam Định",
+    "data": {
+      "gioi_thieu": "Vùng đất gắn liền với vương triều nhà Trần hào hùng, nổi tiếng với những ngôi nhà thờ cổ kính và tinh hoa ẩm thực Bắc Bộ.",
+      "diem_du_lich": [
+        {
+          "ten": "Đền Trần - Chùa Phổ Minh",
+          "mo_ta": "Khu di tích thờ các vị vua nhà Trần và tháp Phổ Minh - biểu tượng kiến trúc thời Trần.",
+          "diem_noi_bat": "Tham gia lễ khai ấn Đền Trần vào rằm tháng Giêng thu hút hàng vạn khách thập phương."
+        },
+        {
+          "ten": "Nhà thờ đổ Hải Lý",
+          "mo_ta": "Phế tích của một ngôi nhà thờ bị biển xâm thực, tạo nên vẻ đẹp hoang tàn đầy cuốn hút ven biển.",
+          "diem_noi_bat": "Địa điểm săn ảnh bình minh cực đẹp và thưởng thức hải sản tươi rẻ ngay tại bãi biển."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Cách Hà Nội 90km, có thể đi bằng tàu hỏa hoặc ô tô rất thuận tiện.",
+        "an_uong": "Phở bò Nam Định (nguyên bản), bánh xíu páo, nem nắm Giao Thủy.",
+        "luu_tru": "Khách sạn tại TP. Nam Định hoặc các nhà nghỉ ven biển Hải Hậu.",
+        "luu_y": "Hải sản tại bãi biển Hải Lý rất tươi, hãy đến sớm lúc thuyền chài vừa về để mua."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Nghe An",
+    "data": {
+      "gioi_thieu": "Quê hương của Chủ tịch Hồ Chí Minh, vùng đất 'địa linh nhân kiệt' với những bãi biển rộng dài và núi rừng hùng vĩ.",
+      "diem_du_lich": [
+        {
+          "ten": "Khu di tích Kim Liên",
+          "mo_ta": "Gồm quê nội và quê ngoại của Bác Hồ với những nếp nhà tranh đơn sơ, giản dị.",
+          "diem_noi_bat": "Lắng nghe những câu chuyện cảm động về tuổi thơ của Bác và ngắm nhìn những kỷ vật xưa cũ."
+        },
+        {
+          "ten": "Biển Cửa Lò",
+          "mo_ta": "Một trong những bãi biển sầm uất nhất miền Trung với bờ cát trắng mịn và dịch vụ du lịch phát triển.",
+          "diem_noi_bat": "Trải nghiệm câu mực đêm cùng ngư dân và tham quan đảo Hòn Ngư."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Sân bay Vinh, ga Vinh hoặc xe khách chất lượng cao từ Hà Nội mất 5-6 tiếng.",
+        "an_uong": "Súp lươn Nghệ An, cháo lươn, nhút Thanh Chương, tương Nam Đàn.",
+        "luu_tru": "Các khách sạn sát biển tại Cửa Lò hoặc trung tâm TP. Vinh.",
+        "luu_y": "Nên thưởng thức súp lươn ăn kèm bánh mì hoặc bánh mướt vào bữa sáng."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Ninh Bình",
+    "data": {
+      "gioi_thieu": "Mảnh đất cố đô nghìn năm tuổi, nơi có quần thể danh thắng Tràng An được UNESCO công nhận là Di sản kép thế giới.",
+      "diem_du_lich": [
+        {
+          "ten": "Quần thể danh thắng Tràng An",
+          "mo_ta": "Hệ thống núi đá vôi hùng vĩ giữa những dòng sông nhỏ uốn lượn xuyên qua các hang động kỳ ảo.",
+          "diem_noi_bat": "Ngồi thuyền nan ngắm cảnh như trong phim King Kong và tham quan phim trường cũ."
+        },
+        {
+          "ten": "Chùa Bái Đính",
+          "mo_ta": "Ngôi chùa lớn nhất Việt Nam với nhiều kỷ lục như: tượng Phật bằng đồng dát vàng lớn nhất, hành lang La Hán dài nhất.",
+          "diem_noi_bat": "Ngắm nhìn tháp chuông khổng lồ và không gian kiến trúc Phật giáo đồ sộ."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Cách Hà Nội 100km, đi ô tô hoặc xe máy theo hướng QL1A cực kỳ nhanh chóng.",
+        "an_uong": "Thịt dê núi Ninh Bình, cơm cháy giòn tan, rượu Kim Sơn.",
+        "luu_tru": "Các homestay tại Tam Cốc hoặc Tràng An để cảm nhận không khí làng quê yên tĩnh.",
+        "luu_y": "Nên leo núi Ngọa Long tại Hang Múa để có tầm nhìn toàn cảnh Tam Cốc từ trên cao."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Ninh Thuận",
+    "data": {
+      "gioi_thieu": "Vùng đất của nắng, gió, cừu và những vườn nho trĩu quả, mang vẻ đẹp hoang dại đầy mê hoặc.",
+      "diem_du_lich": [
+        {
+          "ten": "Vịnh Vĩnh Hy",
+          "mo_ta": "Một trong bốn vịnh biển đẹp nhất Việt Nam, được bao quanh bởi núi đá và biển xanh ngắt.",
+          "diem_noi_bat": "Đi tàu đáy kính ngắm san hô và thưởng thức hải sản ngay trên bè giữa vịnh."
+        },
+        {
+          "ten": "Hang Rái",
+          "mo_ta": "Nơi có bãi đá san hô cổ khổng lồ sát biển, tạo nên khung cảnh kỳ ảo như bề mặt sao Hỏa.",
+          "diem_noi_bat": "Địa điểm chụp ảnh nghệ thuật cực đỉnh, nhất là vào lúc bình minh khi sóng tràn qua bãi đá."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Có thể bay đến Cam Ranh rồi đi taxi 60km hoặc đi tàu hỏa dừng tại ga Tháp Chàm.",
+        "an_uong": "Nho Ninh Thuận, thịt cừu, thịt dông cát, bánh căn Phan Rang.",
+        "luu_tru": "Các resort tại Vĩnh Hy hoặc khách sạn ven biển Bình Sơn - Ninh Chữ.",
+        "luu_y": "Hãy mang theo kem chống nắng cực mạnh và áo khoác chống gió vì Ninh Thuận rất nắng và gió."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Phú Thọ",
+    "data": {
+      "gioi_thieu": "Vùng đất Tổ cội nguồn của dân tộc Việt Nam, nơi có đền Hùng linh thiêng và những đồi chè xanh mướt.",
+      "diem_du_lich": [
+        {
+          "ten": "Khu di tích lịch sử Đền Hùng",
+          "mo_ta": "Nơi thờ tự các vua Hùng đã có công dựng nước, tọa lạc trên núi Nghĩa Lĩnh hùng vĩ.",
+          "diem_noi_bat": "Tham gia lễ hội đền Hùng (10/3 âm lịch) để tìm về nguồn cội văn hóa dân tộc."
+        },
+        {
+          "ten": "Đồi chè Long Cốc",
+          "mo_ta": "Hàng trăm 'ốc đảo' chè hình bát úp nhấp nhô giữa làn sương sớm, đẹp như tranh vẽ.",
+          "diem_noi_bat": "Góc check-in nghệ thuật tuyệt đẹp cho những ai yêu thiên nhiên và nhiếp ảnh."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Cách Hà Nội 80km, di chuyển bằng ô tô cá nhân hoặc xe khách chỉ mất khoảng 1.5 tiếng.",
+        "an_uong": "Thịt chua Thanh Sơn, cọ ỏm, bánh tai, gà nhiều cựa.",
+        "luu_tru": "Khách sạn tại TP. Việt Trì là tiện lợi nhất để tham quan các điểm.",
+        "luu_y": "Nên leo đền Hùng vào buổi sáng sớm để tránh nắng và không khí thoáng đãng."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Phú Yên",
+    "data": {
+      "gioi_thieu": "Xứ sở 'Hoa vàng trên cỏ xanh' với những bãi biển hoang sơ, những gành đá kỳ vĩ và nhịp sống bình dị.",
+      "diem_du_lich": [
+        {
+          "ten": "Gành Đá Đĩa",
+          "mo_ta": "Di tích quốc gia đặc biệt với hàng ngàn cột đá hình lục giác xếp chồng lên nhau như những chồng đĩa khổng lồ.",
+          "diem_noi_bat": "Kiệt tác tự nhiên hiếm có trên thế giới và là góc chụp ảnh mang tính biểu tượng của Phú Yên."
+        },
+        {
+          "ten": "Bãi Xép - Gành Ông",
+          "mo_ta": "Bờ biển tuyệt đẹp với bãi cỏ xanh mướt và những bụi xương rồng hoang dại, nơi quay bộ phim nổi tiếng.",
+          "diem_noi_bat": "Ngắm nhìn biển xanh bao la từ vách đá dựng đứng và hít hà hương gió biển."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Sân bay Tuy Hòa hoặc xe khách từ TP.HCM mất 10-12 tiếng. Thuê xe máy đi dọc cung đường biển rất đẹp.",
+        "an_uong": "Mắt cá ngừ đại dương, bò một nắng muối kiến vàng, bánh hỏi lòng heo.",
+        "luu_tru": "Khách sạn ven biển Tuy Hòa hoặc các homestay đậm chất làng quê.",
+        "luu_y": "Nên thử món mắt cá ngừ tiềm thuốc bắc - món ăn bổ dưỡng đặc trưng nhất Phú Yên."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Quảng Bình",
+    "data": {
+      "gioi_thieu": "Vương quốc của những hang động, nơi sở hữu vườn quốc gia Phong Nha - Kẻ Bàng kỳ vĩ bậc nhất thế giới.",
+      "diem_du_lich": [
+        {
+          "ten": "Động Thiên Đường & Động Phong Nha",
+          "mo_ta": "Những hang động đá vôi tráng lệ với hệ thống thạch nhũ lộng lẫy và dòng sông ngầm kỳ ảo.",
+          "diem_noi_bat": "Chiêm ngưỡng vẻ đẹp lung linh của 'Hoàng cung trong lòng đất' tại động Thiên Đường."
+        },
+        {
+          "ten": "Biển Nhật Lệ",
+          "mo_ta": "Bãi biển thơ mộng nằm ngay gần trung tâm TP. Đồng Hới với bãi cát rộng và sóng êm.",
+          "diem_noi_bat": "Thưởng thức hải sản tươi sống và ngắm hoàng hôn buông xuống trên biển."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Sân bay Đồng Hới, ga Đồng Hới hoặc xe khách giường nằm từ Hà Nội/Đà Nẵng.",
+        "an_uong": "Bánh bột lọc Quảng Bình, cháo canh cá lóc, lẩu cá khoai.",
+        "luu_tru": "Khách sạn ven biển Nhật Lệ hoặc các homestay sinh thái gần khu vực Phong Nha.",
+        "luu_y": "Các hang động có nhiệt độ thấp, hãy mang theo áo khoác mỏng khi vào tham quan."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Quảng Nam",
+    "data": {
+      "gioi_thieu": "Mảnh đất di sản với phố cổ Hội An rêu phong và thánh địa Mỹ Sơn huyền bí, mang vẻ đẹp hoài cổ và thanh bình.",
+      "diem_du_lich": [
+        {
+          "ten": "Phố cổ Hội An",
+          "mo_ta": "Thương cảng cổ thế kỷ XVII được bảo tồn gần như nguyên vẹn với những ngôi nhà tường vàng đặc trưng.",
+          "diem_noi_bat": "Thả đèn hoa đăng trên sông Hoài và đi dạo dưới ánh sáng lung linh của hàng ngàn chiếc đèn lồng."
+        },
+        {
+          "ten": "Thánh địa Mỹ Sơn",
+          "mo_ta": "Quần thể đền tháp Chăm Pa nằm trong một thung lũng kín đáo, mang vẻ đẹp tâm linh huyền bí.",
+          "diem_noi_bat": "Khám phá nghệ thuật điêu khắc đá tinh xảo của người Chăm và xem biểu diễn múa Apsara."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Cách Đà Nẵng 30km, có thể đi bằng xe buýt, taxi hoặc xe máy rất nhanh chóng.",
+        "an_uong": "Cao lầu Hội An, cơm gà Bà Buội, bánh mì Phượng, mì Quảng.",
+        "luu_tru": "Các khách sạn Boutique trong phố cổ hoặc villa ven bãi biển An Bàng.",
+        "luu_y": "Hội An đẹp nhất vào đêm rằm khi phố cổ tắt đèn điện và chỉ thắp đèn lồng."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Quảng Ngãi",
+    "data": {
+      "gioi_thieu": "Vùng đất nổi tiếng với đảo Lý Sơn - thiên đường của tỏi và những miệng núi lửa cổ đại ven biển.",
+      "diem_du_lich": [
+        {
+          "ten": "Đảo Lý Sơn",
+          "mo_ta": "Hòn đảo hình thành từ các đợt phun trào núi lửa, nổi tiếng với nước biển xanh ngắt và những cánh đồng tỏi xanh mướt.",
+          "diem_noi_bat": "Check-in cổng Tò Vò tự nhiên và chinh phục đỉnh núi Thới Lới ngắm nhìn toàn cảnh đảo."
+        },
+        {
+          "ten": "Bãi biển Mỹ Khê (Quảng Ngãi)",
+          "mo_ta": "Bãi biển dài thơ mộng với những hàng dương xanh ngắt, cát trắng mịn và chưa quá đông đúc.",
+          "diem_noi_bat": "Không gian yên tĩnh tuyệt vời để nghỉ dưỡng và tắm biển vào mỗi buổi chiều."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Bay đến sân bay Chu Lai rồi taxi đến cảng Sa Kỳ để đi tàu cao tốc ra Lý Sơn.",
+        "an_uong": "Cá bống sông Trà, kẹo gương, gỏi tỏi Lý Sơn, bánh xèo Quảng Ngãi.",
+        "luu_tru": "Khách sạn trung tâm TP. Quảng Ngãi hoặc homestay xinh xắn trên đảo Lý Sơn.",
+        "luu_y": "Cần theo dõi thời tiết biển kỹ trước khi đặt tàu ra đảo để tránh bị kẹt lại khi có biển động."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Quảng Ninh",
+    "data": {
+      "gioi_thieu": "Thủ phủ du lịch miền Bắc với vịnh Hạ Long kỳ quan thiên nhiên thế giới và những khu giải trí đẳng cấp quốc tế.",
+      "diem_du_lich": [
+        {
+          "ten": "Vịnh Hạ Long",
+          "mo_ta": "Hàng ngàn đảo đá vôi nhấp nhô trên mặt nước xanh biếc, tạo nên khung cảnh kỳ vĩ như tiên cảnh.",
+          "diem_noi_bat": "Trải nghiệm ngủ đêm trên du thuyền hạng sang và tham quan các hang động tuyệt đẹp."
+        },
+        {
+          "ten": "Yên Tử",
+          "mo_ta": "Vùng đất Phật giáo linh thiêng, nơi vua Trần Nhân Tông sáng lập ra thiền phái Trúc Lâm.",
+          "diem_noi_bat": "Chinh phục đỉnh Chùa Đồng ở độ cao 1.068m để tìm về sự thanh thản trong tâm hồn."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Đi đường cao tốc từ Hà Nội chỉ mất 2 tiếng. Có sân bay quốc tế Vân Đồn.",
+        "an_uong": "Chả mực Hạ Long, bún bề bề, sá sùng, gà đồi Tiên Yên.",
+        "luu_tru": "Resort ven biển Bãi Cháy, du thuyền trên vịnh hoặc homestay tại đảo Quan Lạn, Cô Tô.",
+        "luu_y": "Nên đặt tour du thuyền sớm để có giá tốt và vị trí phòng đẹp."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Quảng Trị",
+    "data": {
+      "gioi_thieu": "Vùng đất lửa kiên cường với những di tích lịch sử ghi dấu một thời hào hùng của dân tộc Việt Nam.",
+      "diem_du_lich": [
+        {
+          "ten": "Thành Cổ Quảng Trị",
+          "mo_ta": "Nơi diễn ra trận chiến 81 ngày đêm rực lửa năm 1972, biểu tượng của lòng quả cảm.",
+          "diem_noi_bat": "Không gian trầm mặc, thiêng liêng để tưởng nhớ những người anh hùng đã ngã xuống."
+        },
+        {
+          "ten": "Địa đạo Vịnh Mốc",
+          "mo_ta": "Hệ thống đường hầm trong lòng đất là nơi sống và chiến đấu của người dân vùng vĩ tuyến 17.",
+          "diem_noi_bat": "Khám phá 'thành phố trong lòng đất' kỳ ảo với đầy đủ căn hộ, bệnh xá, nhà trẻ."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Đi tàu hỏa dừng tại ga Đông Hà hoặc xe khách giường nằm từ Hà Nội/Sài Gòn.",
+        "an_uong": "Bánh khoái Quảng Trị, bún hến Mai Xá, cháo vạt giường.",
+        "luu_tru": "Các khách sạn tại TP. Đông Hà để thuận tiện di chuyển đến các di tích.",
+        "luu_y": "Nên đi theo các tour DMZ (vùng phi quân sự) để được nghe thuyết minh về lịch sử sâu sắc hơn."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Sóc Trăng",
+    "data": {
+      "gioi_thieu": "Xứ sở của những ngôi chùa Khmer lộng lẫy và lễ hội đua ghe Ngo rộn ràng, mang đậm nét văn hóa đa dân tộc.",
+      "diem_du_lich": [
+        {
+          "ten": "Chùa Dơi (Chùa Mahatup)",
+          "mo_ta": "Ngôi chùa Khmer cổ kính nổi tiếng với hàng ngàn con dơi quạ treo mình trên các tán cây trong khuôn viên.",
+          "diem_noi_bat": "Kiến trúc Khmer tinh xảo với màu vàng rực rỡ và bầu không khí thanh tịnh lạ thường."
+        },
+        {
+          "ten": "Chùa Chén Kiểu (Chùa Sà Lôn)",
+          "mo_ta": "Ngôi chùa độc đáo với những bức tường được ốp bằng những mảnh chén đĩa sứ đầy màu sắc.",
+          "diem_noi_bat": "Nét trang trí thủ công tỉ mỉ, tạo nên vẻ đẹp rực rỡ và khác biệt hoàn toàn với các ngôi chùa khác."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách từ TP.HCM mất khoảng 5-6 tiếng. Nên di chuyển bằng taxi giữa các ngôi chùa.",
+        "an_uong": "Bánh pía Sóc Trăng (đặc sản nổi tiếng), bún nước lèo, bánh cóng Đại Tâm.",
+        "luu_tru": "Khách sạn tại trung tâm TP. Sóc Trăng.",
+        "luu_y": "Khi vào chùa hãy chú ý trang phục lịch sự, che kín vai và đầu gối."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Sơn La",
+    "data": {
+      "gioi_thieu": "Vùng đất của những thung lũng mận trắng xóa và cao nguyên Mộc Châu xanh mướt, nơi lý tưởng để đi trốn cái nắng phố thị.",
+      "diem_du_lich": [
+        {
+          "ten": "Cao nguyên Mộc Châu",
+          "mo_ta": "Nơi có những đồi chè trái tim xinh xắn và rừng thông Bản Áng thơ mộng.",
+          "diem_noi_bat": "Ngắm hoa mận trắng vào mùa xuân và check-in thác Dải Yếm với cầu kính tình yêu."},
+        {
+          "ten": "Tà Xùa",
+          "mo_ta": "Được ví như 'Thiên đường mây' với sống lưng khủng long hiểm trở và biển mây bồng bềnh.",
+          "diem_noi_bat": "Trải nghiệm cảm giác đứng giữa biển mây trắng xóa vào những sớm bình minh rực rỡ."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách giường nằm từ Hà Nội mất khoảng 4-5 tiếng. Tại Mộc Châu thuê xe máy là thuận tiện nhất.",
+        "an_uong": "Bê chao Mộc Châu, cá suối nướng, cơm lam, sữa bò tươi Mộc Châu.",
+        "luu_tru": "Homestay nhà sàn tại các bản người Thái hoặc các khu nghỉ dưỡng nhà gỗ giữa đồi chè.",
+        "luu_y": "Nên đi Tà Xùa vào tháng 11 đến tháng 3 năm sau để có tỷ lệ săn mây thành công cao nhất."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Tây Ninh",
+    "data": {
+      "gioi_thieu": "Vùng đất tâm linh nổi tiếng với núi Bà Đen hùng vĩ và tòa thánh Tây Ninh lộng lẫy.",
+      "diem_du_lich": [
+        {
+          "ten": "Núi Bà Đen",
+          "mo_ta": "Ngọn núi cao nhất miền Nam với hệ thống cáp treo hiện đại và tượng Phật Bà bằng đồng trên đỉnh núi.",
+          "diem_noi_bat": "Chinh phục 'đệ nhất thiên sơn' và ngắm toàn cảnh thung lũng từ độ cao 986m."
+        },
+        {
+          "ten": "Tòa Thánh Tây Ninh",
+          "mo_ta": "Công trình tôn giáo vĩ đại của đạo Cao Đài với kiến trúc rực rỡ và những biểu tượng huyền bí.",
+          "diem_noi_bat": "Tham dự giờ hành lễ buổi trưa (12h) để cảm nhận sự trang nghiêm và màu sắc độc đáo của tôn giáo này."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe bus hoặc xe máy từ TP.HCM chỉ mất khoảng 2-3 tiếng di chuyển.",
+        "an_uong": "Bánh canh Trảng Bàng, bò tơ Tây Ninh, muối tôm (mua về làm quà).",
+        "luu_tru": "Thường du khách đi về trong ngày, hoặc ở lại các khách sạn tại trung tâm TP. Tây Ninh.",
+        "luu_y": "Khi tham quan Tòa Thánh, cần chú ý không mặc quần ngắn và tuân thủ các quy định về lối đi riêng cho nam/nữ."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Thái Bình",
+    "data": {
+      "gioi_thieu": "Quê hương của 'Chị Hai Năm Tấn', nổi tiếng với những cánh đồng lúa thẳng cánh cò bay và các ngôi chùa cổ tự.",
+      "diem_du_lich": [
+        {
+          "ten": "Chùa Keo",
+          "mo_ta": "Ngôi chùa gỗ cổ nhất Việt Nam với kiến trúc gác chuông 3 tầng bằng gỗ không dùng đinh cực kỳ tinh xảo.",
+          "diem_noi_bat": "Vẻ đẹp kiến trúc mang đậm dấu ấn thời Lê và không gian yên bình vùng đồng bằng Bắc Bộ."
+        },
+        {
+          "ten": "Biển Vô Cực (Biển Quang Lang)",
+          "mo_ta": "Bãi biển bồi đắp với mặt nước chỉ đến mắt cá chân, tạo nên hiệu ứng gương soi khổng lồ khi triều xuống.",
+          "diem_noi_bat": "Địa điểm săn ảnh bình minh tuyệt đẹp, mang lại cảm giác vô tận giữa đất và trời."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Cách Hà Nội 110km, đi ô tô khách hoặc ô tô cá nhân theo hướng cao tốc Hà Nội - Hải Phòng - Thái Bình.",
+        "an_uong": "Canh cá Quỳnh Côi, bánh cáy Thái Bình, gỏi nhệch, giò chả.",
+        "luu_tru": "Khách sạn tại trung tâm TP. Thái Bình là thuận tiện nhất.",
+        "luu_y": "Để chụp ảnh biển vô cực đẹp, bạn cần dậy thật sớm và xem lịch thủy triều thật kỹ trước khi đi."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Thái Nguyên",
+    "data": {
+      "gioi_thieu": "Xứ sở danh trà nổi tiếng cả nước với những đồi chè xanh ngát và khu du lịch Hồ Núi Cốc thơ mộng.",
+      "diem_du_lich": [
+        {
+          "ten": "Hồ Núi Cốc",
+          "mo_ta": "Hồ nước nhân tạo gắn liền với truyền thuyết tình yêu giữa nàng Công và chàng Cốc.",
+          "diem_noi_bat": "Đi thuyền trên lòng hồ ngắm nhìn những hòn đảo nhỏ và tham quan chùa Vàng đồ sộ."},
+        {
+          "ten": "Đồi chè Tân Cương",
+          "mo_ta": "Nơi sản sinh ra loại trà ngon bậc nhất Việt Nam với những nương chè xanh mướt uốn lượn.",
+          "diem_noi_bat": "Tìm hiểu quy trình hái và chế biến trà thủ công, sau đó nhâm nhi tách trà nóng giữa không gian xanh mát."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Cách Hà Nội 80km, rất gần sân bay Nội Bài, di chuyển bằng đường cao tốc cực kỳ nhanh.",
+        "an_uong": "Trà Tân Cương (nhất định phải thử), bánh chưng Bờ Đậu, nem chua Đại Từ.",
+        "luu_tru": "Các khách sạn tại TP. Thái Nguyên hoặc nghỉ dưỡng tại Hồ Núi Cốc.",
+        "luu_y": "Nên ghé thăm bảo tàng văn hóa các dân tộc Việt Nam tại trung tâm thành phố để có cái nhìn tổng quan về bản sắc các dân tộc."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Thanh Hóa",
+    "data": {
+      "gioi_thieu": "Tỉnh có diện tích lớn với đa dạng các loại hình du lịch từ biển Sầm Sơn náo nhiệt đến núi rừng Pù Luông thanh tịnh.",
+      "diem_du_lich": [
+        {
+          "ten": "Pù Luông",
+          "mo_ta": "Khu bảo tồn thiên nhiên với những thửa ruộng bậc thang và những khu nghỉ dưỡng sinh thái cao cấp.",
+          "diem_noi_bat": "Ngắm nhìn guồng nước khổng lồ và tận hưởng không khí trong lành, bình yên như ở miền Bắc Thái Lan."},
+        {
+          "ten": "Thành Nhà Hồ",
+          "mo_ta": "Di sản văn hóa thế giới, là tòa thành bằng đá duy nhất còn sót lại tại Đông Nam Á từ thế kỷ XIV.",
+          "diem_noi_bat": "Kỹ thuật xếp những khối đá khổng lồ mà không cần chất kết dính là một bí ẩn kiến trúc tuyệt vời."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Có thể đi tàu hỏa, xe khách hoặc ô tô cá nhân theo hướng cao tốc rất nhanh chóng.",
+        "an_uong": "Nem chua Thanh Hóa (đặc sản trứ danh), chả tôm, bánh răng bừa.",
+        "luu_tru": "Các khu resort sinh thái tại Pù Luông hoặc khách sạn ven biển Sầm Sơn.",
+        "luu_y": "Nên mua nem chua tại các cửa hàng uy tín dọc quốc lộ hoặc trong trung tâm thành phố về làm quà."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Thừa Thiên Huế",
+    "data": {
+      "gioi_thieu": "Cố đô của vương triều nhà Nguyễn, nơi lưu giữ những nét vàng son rực rỡ và vẻ đẹp trầm mặc, nên thơ bên dòng sông Hương.",
+      "diem_du_lich": [
+        {
+          "ten": "Đại Nội Huế & Hệ thống lăng tẩm",
+          "mo_ta": "Quần thể di tích cung đình được UNESCO công nhận là Di sản văn hóa thế giới.",
+          "diem_noi_bat": "Khám phá kiến trúc cung đình lộng lẫy và vẻ đẹp riêng biệt của lăng Minh Mạng, Tự Đức, Khải Định."
+        },
+        {
+          "ten": "Chùa Thiên Mụ & Sông Hương",
+          "mo_ta": "Biểu tượng của xứ Huế mộng mơ với tháp Phước Duyên soi bóng xuống dòng sông hiền hòa.",
+          "diem_noi_bat": "Nghe nhã nhạc cung đình Huế trên thuyền rồng vào buổi tối giữa sông Hương thơ mộng."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Sân bay Phú Bài hoặc tàu hỏa dừng tại ga Huế. Thuê xích lô đi dạo quanh phố phường là một trải nghiệm đậm chất Huế.",
+        "an_uong": "Bún bò Huế (nguyên bản), cơm hến, các loại bánh cung đình (bánh bèo, nậm, lọc), chè hẻm.",
+        "luu_tru": "Các khách sạn Boutique cổ kính ven sông Hương hoặc homestay trong các nhà vườn truyền thống.",
+        "luu_y": "Nên thử mặc trang phục cổ truyền (Việt phục) để chụp ảnh tại Đại Nội để có những khung hình đẹp nhất."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Tiền Giang",
+    "data": {
+      "gioi_thieu": "Vùng đất trù phú bên dòng sông Tiền, nổi tiếng với những vườn cây trái xum xuê và nét văn hóa sông nước đặc trưng.",
+      "diem_du_lich": [
+        {
+          "ten": "Chùa Vĩnh Tràng",
+          "mo_ta": "Ngôi chùa lớn nhất tỉnh Tiền Giang với sự kết hợp hài hòa giữa kiến trúc Á và Âu.",
+          "diem_noi_bat": "Chiêm ngưỡng những bức tượng Phật khổng lồ và không gian sân vườn được chăm sóc cực kỳ tỉ mỉ."
+        },
+        {
+          "ten": "Cù lao Thới Sơn (Cồn Lân)",
+          "mo_ta": "Điểm du lịch sinh thái nổi tiếng nhất Tiền Giang, nằm giữa sông Tiền.",
+          "diem_noi_bat": "Ngồi xuồng ba lá len lỏi trong rạch dừa nước, nghe đờn ca tài tử và thưởng thức trái cây tại vườn."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Rất gần TP.HCM (khoảng 70km), xe khách (Phương Trang, Thành Bưởi) đi lại liên tục.",
+        "an_uong": "Hủ tiếu Mỹ Tho (nổi tiếng bậc nhất), mắm tôm chà Gò Công, vú sữa Lò Rèn.",
+        "luu_tru": "Khách sạn tại TP. Mỹ Tho hoặc các homestay sinh thái ven sông.",
+        "luu_y": "Nên đi chợ Mỹ Tho buổi sáng để mua các loại trái cây tươi ngon giá rẻ trực tiếp từ nhà vườn."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "TP. Hồ Chí Minh",
+    "data": {
+      "gioi_thieu": "Hòn ngọc Viễn Đông, trung tâm kinh tế năng động nhất Việt Nam với sự giao thoa văn hóa hiện đại và nét hoài cổ của các công trình kiến trúc Pháp.",
+      "diem_du_lich": [
+        {
+          "ten": "Dinh Độc Lập & Nhà thờ Đức Bà",
+          "mo_ta": "Những biểu tượng lịch sử và kiến trúc tiêu biểu của thành phố.",
+          "diem_noi_bat": "Khám phá hầm chỉ huy trong Dinh Độc Lập và dạo bước quanh khu vực công trường Lam Sơn cổ kính."
+        },
+        {
+          "ten": "Phố đi bộ Nguyễn Huệ & Landmark 81",
+          "mo_ta": "Sự hiện đại của thành phố với phố đi bộ sầm uất và tòa nhà cao nhất Việt Nam.",
+          "diem_noi_bat": "Ngắm toàn cảnh thành phố từ đài quan sát Landmark 81 SkyView và tận hưởng không khí nhộn nhịp buổi tối."
+        },
+        {
+          "ten": "Chợ Bến Thành",
+          "mo_ta": "Ngôi chợ biểu tượng hơn 100 năm tuổi, nơi bạn có thể tìm thấy mọi thứ từ ẩm thực đến đồ lưu niệm.",
+          "diem_noi_bat": "Thưởng thức các món ăn đường phố đa dạng và mua sắm các sản phẩm thủ công mỹ nghệ."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Mạng lưới Grab và taxi vô cùng phát triển. Có thể thử đi xe buýt sông (Water Bus) ngắm thành phố từ sông Sài Gòn.",
+        "an_uong": "Cơm tấm Sài Gòn, hủ tiếu Nam Vang, bánh mì Sài Gòn, cà phê sữa đá.",
+        "luu_tru": "Các khách sạn cao cấp tại quận 1 hoặc homestay độc đáo tại khu vực Đề Thám, Bùi Viện.",
+        "luu_y": "Nên chú ý an toàn giao thông và bảo quản tư trang khi đi vào các khu vực đông người."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Trà Vinh",
+    "data": {
+      "gioi_thieu": "Thành phố của những cây cổ thụ và những ngôi chùa Khmer mang kiến trúc lộng lẫy, huyền bí.",
+      "diem_du_lich": [
+        {
+          "ten": "Chùa Ang & Ao Bà Om",
+          "mo_ta": "Ngôi chùa Khmer cổ nhất Trà Vinh nằm cạnh ao súng thơ mộng với những hàng cây cổ thụ hàng trăm năm tuổi.",
+          "diem_noi_bat": "Không gian mát mẻ, yên tĩnh tuyệt đối và vẻ đẹp kiến trúc rực rỡ mang đậm dấu ấn văn hóa Khmer."
+        },
+        {
+          "ten": "Biển Ba Động",
+          "mo_ta": "Bãi biển hoang sơ với bãi cát dài và những hàng phi lao rì rào trong gió biển.",
+          "diem_noi_bat": "Thưởng thức hải sản tươi sống giá rẻ và cảm nhận nhịp sống bình dị của ngư dân ven biển."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách từ TP.HCM mất khoảng 4-5 tiếng. Trong thành phố nên đi xe máy để ngắm những hàng cây cổ thụ dọc đường phố.",
+        "an_uong": "Bún nước lèo Trà Vinh, dừa sáp (đặc sản cực kỳ quý hiếm), bánh canh Bến Có.",
+        "luu_tru": "Khách sạn tại trung tâm TP. Trà Vinh.",
+        "luu_y": "Nên nếm thử dừa sáp một lần vì đây là loại đặc sản chỉ có duy nhất tại Trà Vinh mới đúng vị."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Tuyên Quang",
+    "data": {
+      "gioi_thieu": "Vùng đất lịch sử chiến khu xưa, nổi tiếng với lễ hội Trung thu quy mô nhất cả nước và thiên nhiên núi rừng kỳ vĩ.",
+      "diem_du_lich": [
+        {
+          "ten": "Khu di tích Tân Trào",
+          "mo_ta": "Nơi gắn liền với những sự kiện quan trọng dẫn tới thắng lợi của Cách mạng tháng Tám.",
+          "diem_noi_bat": "Thăm cây đa Tân Trào, lán Nà Nưa và nghe kể những câu chuyện lịch sử hào hùng."
+        },
+        {
+          "ten": "Hồ Na Hang",
+          "mo_ta": "Vùng hồ thủy điện mênh mông bao quanh bởi 99 ngọn núi đá vôi nhấp nhô, được ví như 'Hạ Long giữa đại ngàn'.",
+          "diem_noi_bat": "Đi thuyền trên lòng hồ ngắm núi Cọc Vài và tắm thác Mơ xanh mát."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách giường nằm từ Hà Nội mất khoảng 3-4 tiếng.",
+        "an_uong": "Gỏi cá bỗng sông Lô, thịt lợn đen Na Hang, cam sành Hàm Yên.",
+        "luu_tru": "Khách sạn tại TP. Tuyên Quang hoặc các nhà nghỉ sinh thái tại khu vực hồ Na Hang.",
+        "luu_y": "Nếu đi vào dịp Trung thu, bạn sẽ được tham gia lễ hội rước đèn khổng lồ náo nhiệt nhất Việt Nam."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Vĩnh Long",
+    "data": {
+      "gioi_thieu": "Vùng đất nằm giữa hai dòng sông Tiền và sông Hậu, trái tim của miệt vườn sông nước Cửu Long.",
+      "diem_du_lich": [
+        {
+          "ten": "Cù lao An Bình",
+          "mo_ta": "Điểm du lịch xanh với những vườn cây trái trĩu quả quanh năm và phong cách du lịch homestay nổi tiếng.",
+          "diem_noi_bat": "Trải nghiệm làm nông dân, tát mương bắt cá và thưởng thức trái cây ngay tại vườn."
+        },
+        {
+          "ten": "Lò gạch Mang Thít",
+          "mo_ta": "Hàng ngàn lò gạch hình chóp đỏ rực nằm ven sông, tạo nên khung cảnh như những 'vương quốc gạch đỏ'.",
+          "diem_noi_bat": "Check-in khung cảnh độc lạ như trong truyện cổ tích và tìm hiểu nghề làm gạch truyền thống."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách từ TP.HCM mất khoảng 2.5 - 3 tiếng di chuyển qua cầu Mỹ Thuận hùng vĩ.",
+        "an_uong": "Cá tai tượng chiên xù, chuột đồng nướng lu, khoai lang Bình Tân.",
+        "luu_tru": "Các homestay trên cù lao An Bình là lựa chọn tuyệt vời nhất để trải nghiệm văn hóa địa phương.",
+        "luu_y": "Nên mang theo giày dép dễ đi lại và chống trơn trượt khi tham quan vườn trái cây."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Vĩnh Phúc",
+    "data": {
+      "gioi_thieu": "Tỉnh nằm giáp ranh Hà Nội với những khu nghỉ dưỡng vùng cao mát mẻ và danh thắng tâm linh nổi tiếng.",
+      "diem_du_lich": [
+        {
+          "ten": "Tam Đảo",
+          "mo_ta": "Thị trấn mù sương với khí hậu 4 mùa trong một ngày, được mệnh danh là 'Đà Lạt của miền Bắc'.",
+          "diem_noi_bat": "Dạo bộ trong sương mù, tham quan nhà thờ đá cổ và thưởng thức ngọn su su tươi ngon."
+        },
+        {
+          "ten": "Thiền viện Trúc Lâm Tây Thiên",
+          "mo_ta": "Một trong những thiền viện lớn nhất cả nước, tọa lạc trên đỉnh núi cao trong xanh.",
+          "diem_noi_bat": "Hòa mình vào không gian thanh tịnh của Phật giáo và ngắm nhìn cảnh núi non trùng điệp."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Chỉ cách Hà Nội 60km, xe bus Limousine hoặc xe máy đều rất thuận tiện.",
+        "an_uong": "Su su Tam Đảo, gà đồi, thịt lợn mán, rượu chít Tây Thiên.",
+        "luu_tru": "Các villa, homestay tại Tam Đảo hoặc khách sạn cao cấp tại TP. Vĩnh Yên.",
+        "luu_y": "Đường lên Tam Đảo có nhiều khúc cua gấp, hãy kiểm tra xe kỹ trước khi leo dốc."
+      }
+    }
+  },
+  {
+    "tinh_thanh": "Yên Bái",
+    "data": {
+      "gioi_thieu": "Vùng đất nổi tiếng với những thửa ruộng bậc thang tuyệt mỹ tại Mù Cang Chải và hồ Thác Bà trong xanh.",
+      "diem_du_lich": [
+        {
+          "ten": "Mù Cang Chải",
+          "mo_ta": "Nơi có những thửa ruộng bậc thang là Di sản quốc gia, đẹp nhất vào mùa lúa chín vàng rực.",
+          "diem_noi_bat": "Check-in đồi mâm xôi, đồi móng ngựa và chinh phục đèo Khau Phạ - một trong tứ đại đỉnh đèo."
+        },
+        {
+          "ten": "Hồ Thác Bà",
+          "mo_ta": "Hồ nhân tạo rộng lớn với hơn 1.300 hòn đảo lớn nhỏ, mang vẻ đẹp bình yên lạ thường.",
+          "diem_noi_bat": "Đi thuyền trên hồ ngắm cảnh và tham quan động Thủy Tiên kỳ ảo."
+        }
+      ],
+      "kinh_nghiem": {
+        "di_chuyen": "Xe khách giường nằm từ Hà Nội mất khoảng 5-7 tiếng tùy địa điểm.",
+        "an_uong": "Xôi ngũ sắc, cốm Tú Lệ, lạp sườn hun khói, rêu đá nướng.",
+        "luu_tru": "Homestay nhà sàn của người Thái, người Mông để trải nghiệm cuộc sống vùng cao.",
+        "luu_y": "Nên đi Mù Cang Chải vào tháng 9-10 để ngắm mùa lúa chín đẹp nhất trong năm."
+      }
+    }
+  }
+]
